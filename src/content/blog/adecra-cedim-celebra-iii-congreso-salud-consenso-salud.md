@@ -1,0 +1,19 @@
+---
+title: "Adecra-Cedim celebra su III Congreso de Salud - Consenso Salud - 07/06/2019"
+date: 2019-06-10
+---
+
+<em> Esta nota también se publicó en D<a href="http://diagnosticsnews.com/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://diagnosticsnews.com/&source=gmail&ust=1560264286189000&usg=AFQjCNFO5AkB3HCoTdZHJAurIVojpwslew">iagnosticsnews.com</a> y <a href="http://emmafiorentino.com.ar/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://emmafiorentino.com.ar/&source=gmail&ust=1560264286189000&usg=AFQjCNEGFeur5VH3zrlyF2mKxLY_XSBuow">emmafiorentino.com.ar</a> </em>
+
+Los días 26 y 27 de Junio se realizará el III Congreso de Salud ADECRA-CEDIM 2019, bajo la consigna La Salud en tiempos de Cambio, en el Hotel Sheraton Pilar, Ruta Panamericana KM 49,5.
+
+ 
+<p style="font-weight: 400;">Los días 26 y 27 de Junio se realizará el III Congreso de Salud ADECRA-CEDIM 2019, bajo la consigna La Salud en tiempos de Cambio, en el Hotel Sheraton Pilar, Ruta Panamericana KM 49,5.</p>
+<p style="font-weight: 400;">Este Congreso convocará a funcionarios nacionales y provinciales, destacados referentes del sector y periodistas. El evento se desarrollará en dos dias de tres Jornadas: VII Jornadas de Directores Médicos de la República Argentina, la V Jornada de Recursos Humanos en Salud de la República Argentina, ambos el día 26 a partir de las 9:15 horas y el día 27 la III Jornada Político Empresaria 2019 a partir de las 9.30 horas.</p>
+<p style="font-weight: 400;">En la VII Jornada de Directores Médicos disertarán Enrique Piñeyro (Aquafims), Silvia Bulla (DuPont Argentina), Fabían Vítolo (Noble), Viviana Rodríguez (IECS) y Astolfo Franco (Centro Médico Imbanaco) y por la tarde los disertantes serán Gerardo Bozovich (ADECRA), Matías Fosco (Fundación Favaloro), Jorge Kritzer (Hirsch), Jorge Santos (Sanatorio Los Arcos), Alejandro Ciancio (Clínica Modelo Lanús) y Roberto Dupuy de Lôme (Sanatorio Mater Dei) y Roberto Martínez (Hospital Italiano de La Plata)</p>
+<p style="font-weight: 400;">Los disertantes de la Jornada de Recursos Humanos serán Eva Ávila Montequin ( CEDIM), Virginia Meneghelo, Eugenia Ludueña (Periodista), Lorena Blanco (HSBC), Cecilia Camilucci (Hospital Privado), Azucena Gorbarán (AMG), Fernado Demarchi (CEMIC), Silvana Messina (Laboratorio Hidalgo), Luis MAría Cravino (AO Consulting), Laura Rodríguez (IADT), H{ector Garín (AMAP), Marisa Aizemberg (Observatorio de la Facultad de Derecho UBA), Vicente Andereggen (Director Médico OMINT)</p>
+<p style="font-weight: 400;">La III Jornada Político Empresaria 2019 contará con Marcelo Kaufman (CEDIM), Carlos Vassallo (Consultor OISS), Jorge Colina (ADECRA-CEDIM), Erick Gryzbowski (Abbott Diagnostics), Diego Cabot (La Nación), Carlos Melconian (MacroView), Alejandro Catterberg (Poliarquía) y Jorge Cherro (ADECRA).</p>
+<p style="font-weight: 400;">A su vez, dentro de las temáticas, se tratarán el los Modelos Sanitarios y su Sosteibilidad, la transformación digital en la salud, evolución de la Dirección Médico,</p>
+<p style="font-weight: 400;">la utilización de las habilidades profesionales frente al cambio en el trabajo y la utilización de la BigData en los recursos humanos.</p>
+<p style="font-weight: 400;">A través del III Congreso de Salud ADECRA-CEDIM  se propone afianzar el compromiso con el sector de la salud, brindar herramientas de capacitación y perfeccionamiento y generar un espacio de intercambio entre referentes del sector.</p>
+<p style="font-weight: 400;">Informes e inscripción: (011) 4374-2526 / <a href="mailto:congreso@adecra.org.ar">congreso@adecra.org.ar</a></p>

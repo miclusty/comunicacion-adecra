@@ -1,0 +1,24 @@
+---
+title: "Clínicas presionan para poder negarse a practicar abortos en forma institucional"
+
+category: prensa
+date: 2018-06-22
+---
+
+<p style="font-weight: 400; text-align: right;"><strong>22/06/2018 <a href="http://eldia.com/" data-saferedirecturl="https://www.google.com/url?hl=es&q=http://eldia.com&source=gmail&ust=1529767689207000&usg=AFQjCNEG_ZSCKw3S-SuOcfIai6jSe2nPUA">eldia.com</a></strong></p>
+<p style="font-weight: 400; text-align: right;"><em>Publicado en Edición Impresa y replicada en el portal web labrujula24.com </em></p>
+<p style="font-weight: 400;">INFORMACIÓN GENERAL</p>
+<p style="font-weight: 400;">LA LEY DE DESPENALIZACIÓN ENCUENTRA UN NUEVO FRENTE DE RESISTENCIA</p>
+
+<h1 style="font-weight: 400;"><strong>Clínicas presionan para poder negarse a practicar abortos en forma institucional</strong></h1>
+<p style="font-weight: 400;">Exigen que el Senado modifique el proyecto para que la objeción de conciencia no sea sólo de cada profesional.</p>
+<p style="font-weight: 400;">Mientras el Senado se prepara para comenzar a debatir el proyecto de despenalización del aborto aprobado la semana pasada en Diputados, más de una decena de clínicas, sanatorios y hospitales han comenzado a movilizarse para exigir que se revise uno de sus puntos centrales: la objeción de conciencia. Reclaman que ésta no se limite sólo a los profesionales que se oponen a practicar abortos sino que también los centros de salud puedan escudarse en ella de forma institucional.</p>
+<p style="font-weight: 400;">El pedido es impulsado por el Hospital Universitario Austral, el Sanatorio Mater Dei, la Fundación Fleni, la Casa Hospital San Juan de Dios, la Clínica San Camilo, la Clínica Bazterrica, la Maternidad Santa Isabel, la Clínica Del Sol, el Hospital Privado Universitario de Córdoba, el Hospital Materno Neonatal de Misiones y el servicio de Ginecología del Hospital de Iturraspe, de Santa Fe: Este último será hoy escenario de una manifestación para reclamar que el Senado modifique ese aspecto del proyecto de ley.</p>
+<p style="font-weight: 400;">“La ley que se ha propuesto obliga a todo establecimiento sanitario, también privado, incluso confesional, a la realización de la interrupción voluntaria del embarazo. Al mismo tiempo, prohíbe toda objeción basada en el ideario fundacional de algunas de nuestras instituciones”, sostiene un comunicado firmado, entre otras instituciones, por el Sanatorio Mater Dei, la Clínica San Camilo y la Casa Hospital San Juan de Dios.</p>
+<p style="font-weight: 400;">“La objeción de conciencia personal es difícil de llevar a cabo. Normalmente podía hacerse antes de un acto médico que no estaba en línea con los ideales del profesional. Ahora va a haber un registro, que va a llevar sus tiempos. Desde la institución buscamos una objeción institucional: es apuntar a buscar la libertad”, explicó por su parte Fernando Iúdica, director del Hospital Austral.</p>
+<p style="font-weight: 400;">Para la <strong>Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina</strong>, el problema no se limitaría a una cuestión de operatividad sino también de recursos.</p>
+<p style="font-weight: 400;">“La redacción del proyecto implica la obligatoriedad para privados y públicos, pero los privados no tienen todos los servicios para responder a esos requerimientos. En las instituciones privadas, la mayoría de los médicos no son empleados, por los que no están obligados a responder a los requerimientos del director. Eso pone a los directores en una dificultad operativa bajo amenazas de sanciones y cárcel”, explica Gerardo Bozovich desde la comisión de dirección médica de la entidad.</p>
+<p style="font-weight: 400;"><strong><em>EL TEMA MÁS DEBATIDO</em></strong></p>
+<p style="font-weight: 400;">Durante el debate entre los diputados que impulsaban legalización del aborto, la objeción de conciencia “fue tal vez el tema más debatido”, reconoció el diputado Daniel Lipovetzky, presidente de la comisión de Legislación General y coordinador de las audiencias públicas realizadas en torno al proyecto.</p>
+<p style="font-weight: 400;">“Pensábamos que existía la posibilidad de que una institución privada quisiera ser objetora, y para eso contemplamos que esa institución pueda derivar el caso, es decir, que el aborto no se haga ahí, pero que esa institución deba controlar que la práctica se realice. Si un sanatorio o clínica privados no quieren hacer abortos, deberán tener armado un sistema de derivación. Creemos que el proyecto que se votó permite así ser objetor pero sin deslindarse de la responsabilidad”, contó el legislador.</p>
+<p style="font-weight: 400;">El hecho es que si el Senado cediera a la exigencias de las clínicas modificando el alcance de la objeción de consciencia para que pueda ser institucional, el proyecto de despenalización volvería a Diputados para ser sometido a una nueva votación.</p>

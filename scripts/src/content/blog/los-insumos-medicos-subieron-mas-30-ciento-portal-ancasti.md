@@ -1,0 +1,28 @@
+---
+title: "Los insumos médicos subieron más de un 30 por ciento - Portal El Ancasti - 02/09/2018"
+date: 2018-09-04
+categories: ["Prensa"]
+---
+
+<p style="text-align: right;"><em>2 de septiembre de 2018</em></p>
+
+<h1>Los insumos médicos subieron más de un 30 por ciento</h1>
+
+<p style="font-weight: 400;">Así se desprende de un informe elaborado por la <strong>Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina (Adecra+Cedim),</strong> que agrupa a prestadores médicos de obras sociales y prepagas.</p>
+<p style="font-weight: 400;">Los precios de los insumos médicos aumentaron más de un 30 por ciento entre marzo y julio, tendencia que afectó a los prestadores de la salud.</p>
+<p style="font-weight: 400;">Así se desprende de un informe elaborado por la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina (Adecra+Cedim), que agrupa a prestadores médicos de obras sociales y prepagas.</p>
+<p style="font-weight: 400;">El trabajo argumentó que el aumento de los insumos, tales como los descartables, medicamentos, placas y contrastes, se debe a dos motivos.</p>
+<p style="font-weight: 400;">"Por un lado, el fuerte aumento del precio del dólar estadounidense y, por el otro, las características oligopólicas del mercado de insumos, situación que hace posible un acuerdo tácito entre varios jugadores sobre el aumento de precio de cualquiera de estos insumos y genere un fuerte impacto en el costo de los prestadores", detalló el trabajo de Adecra.</p>
+<p style="font-weight: 400;">La entidad informó que "los insumos médicos representan más del 13% de la estructura de costos operativos de las instituciones", situación que preocupa a los prestadores, ya que estas subas no son trasladables a precios, por encontrarse comprendidos dentro de los módulos.</p>
+<p style="font-weight: 400;">"Estos aumentos de costos los tienen que afrontar, en su totalidad, los prestadores, socavando los resultados operativos de las empresas", remarcó el informe, que además detalló que los proveedores para algunos insumos descartables, como guantes, no presentan precio fijo, sino órdenes de compra abiertas, mientras que otros insumos presentan listas de precios en dólares.</p>
+<p style="font-weight: 400;">"Una consideración a tener en cuenta al respecto es que los proveedores cobran a dólar billete, mientras que compran a dólar divisa, ganando una diferencia de hasta 5%", detalló el texto.</p>
+<p style="font-weight: 400;">Según las variaciones de precios de los descartables entre marzo y julio, los incrementos rondaron el 37%, en promedio, mientras que dentro de los descartables, se destacan las agujas y jeringas, con incrementos de entre el 45% y el 38%.</p>
+<p style="font-weight: 400;">   Otro de los datos del informe es el costo de los medicamentos, los cuales mostraron aumento promedio del 16% en el período marzo- julio.</p>
+<p style="font-weight: 400;">   Algunos ejemplos de aumentos de insumos que se evidenciaron fueron 29% en soluciones fisiológicas, 21% en Sevofluorano y 20% en Decadrón.</p>
+<p style="font-weight: 400;">   Las placas, por su parte, registraron aumentos en torno al 28% y los contrastes al 26%.</p>
+<p style="font-weight: 400;">   "Como se puede observar, los incrementos en los precios de los insumos acompañan el aumento del valor de dólar, lo cual se debe a que, en su gran mayoría, son importados. Adicionalmente, en el período de análisis, se evidencia un considerable aumento del precio del petróleo de más del 15%, que repercute directamente en la industria del plástico, y ésta, indirectamente, sobre el precio de los descartables", indicó el estudio.</p>
+<p style="font-weight: 400;">   Sobre la apreciación del dólar, entre marzo y julio, "su valor pasó de $20 a $27,5, generando un aumento del 36%".</p>
+<p style="font-weight: 400;">   "Según las estimaciones del precio dólar a futuro, este se ubicaría a $33,9 a diciembre de 2018, y a $36,65 a marzo de 2019.</p>
+<p style="font-weight: 400;">  Así, la brecha marzo-diciembre sería de 69,5%, y la variación interanual marzo 2018-marzo 2019 de 83,25%, por lo que se espera que los aumentos en los costos de los insumos médicos sigan estando presentes en la compleja ecuación que los prestadores han venido afrontando desde la corrida cambiaria iniciada en junio de este año", concluyó el trabajo.</p>
+<p style="font-weight: 400;"></p>
+<p style="font-weight: 400;">Fuente: <a href="https://www.elancasti.com.ar/info-gral/2018/9/3/los-insumos-medicos-aumentaron-mas-de-30-381602.html" data-saferedirecturl="https://www.google.com/url?hl=es&q=https://www.elancasti.com.ar/info-gral/2018/9/3/los-insumos-medicos-aumentaron-mas-de-30-381602.html&source=gmail&ust=1536095054199000&usg=AFQjCNFzu_IP2s9ZeV6O1zhjPIxzxT7xLQ">https://www.elancasti.com.ar/info-gral/2018/9/3/los-insumos-medicos-aumentaron-mas-de-30-381602.html</a></p>

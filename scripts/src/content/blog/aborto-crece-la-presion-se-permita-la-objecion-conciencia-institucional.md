@@ -1,0 +1,35 @@
+---
+title: "Aborto: crece la presión para que se permita la objeción de conciencia institucional"
+date: 2018-06-22
+categories: ["Prensa"]
+---
+
+<p style="text-align: right;">20/06/2018</p>
+<em>Publicada por el diario Clarín, fue replicada en el portal de noticias <a href="http://tucumanalas7.com.ar/">Tucumán a las 7.</a> Radio Eme, Radio Sarmiento y en <a href="http://diariodeloeste.com.ar/">Diario del Oeste</a>.</em>
+
+Fuente: <a href="https://clar.in/2JVebq7">https://clar.in/2JVebq7</a>
+<h1 id="title">Aborto: crece la presión para que se permita la objeción de conciencia institucional</h1>
+
+
+Es un reclamo de más de una decena de clínicas privadas. Afirman que negarlo es "un atentado contra la libertad". Piden que el Senado revea este punto.
+
+Luego de que la Cámara de Diputados otorgara media sanción al proyecto de legalización del aborto la semana pasada, más de una decena de clínicas, hospitales y sanatorios <strong>adelantaron su exigencia de que exista la objeción de conciencia no sólo individual -prevista en el proyecto- sino también la institucional</strong>. Así lo manifestaron, entre otros, la Casa Hospital San Juan de Dios, la Clínica San Camilo, la Clínica Bazterrica, la Clínica y Maternidad Santa Isabel, la Clínica Del Sol, la Fundación Fleni, el Hospital Universitario Austral y el Sanatorio Mater Dei. Se sumaron también instituciones como el Hospital Privado Universitario de Córdoba, todos los médicos del Hospital Materno Neonatal de Misiones, y este vienes habrá una convocatoria para apoyar a los médicos del área de Ginecología del Hospital de Iturraspe, de Santa Fe, en la que todos los profesionales se oponen a realizar la práctica. La presión por la inclusión de la objeción de conciencia institucional crece mientras el Senado se prepara para empezar a debatir el proyecto de ley.
+
+<strong>"Es un atentado contra la libertad"</strong>, dice a <strong>Clarín</strong> Fernando Iúdica, director del Hospital Austral respecto del proyecto que obtuvo media sanción y que no contempla la objeción de conciencia institucional aunque sí la individual. "La objeción de conciencia personal es difícil de llevar a cabo. Normalmente podía hacerse antes de un acto médico que no estaba en línea con los ideales del profesional. <strong>Ahora va a haber un registro, que va a llevar sus tiempos</strong>. Desde la institución buscamos una objeción institucional: es apuntar a buscar la libertad", sostiene el titular del Hospital Austral, y suma: "El proyecto de ley habla de la autonomía, la libertad y la integridad de una persona. Esos mismos derechos se han revertido: <strong>se tiene derecho a abortar pero no a decir 'yo no lo hago'</strong>".
+
+"Buscamos que los senadores <strong>revisen este aspecto de la ley</strong>, que accedan a que las instituciones que no están de acuerdo con la práctica, no tengan que hacerla. Va a ser muy difícil obligar a alguien a hacer algo que no quiere hacer", advierte Iúdica. En rigor, si el Senado modifica ese o algún otro artículo del proyecto que aprobó la Cámara Baja, <strong>los diputados deberán volver a votar</strong>.
+
+El diputado Daniel Lipovetzky, presidente de la comisión de Legislación General y coordinador de las audiencias por las que pasaron 738 expositores, explica: "Durante el debate entre los diputados que impulsábamos la legalización, <strong>la objeción de conciencia fue tal vez el tema más debatido</strong>. Pensábamos que existía la posibilidad de que una institución privada quisiera ser objetora, y para eso contemplamos que esa institución <strong>pueda derivar el caso</strong>, es decir, que el aborto no se haga ahí, pero que esa institución <strong>deba controlar que la práctica se realice</strong>. Si un sanatorio o clínica privados no quieren hacer abortos, deberán tener armado un sistema de derivación. Creemos que el proyecto que se votó permite así ser objetor pero <strong>sin deslindarse de la responsabilidad</strong>".
+
+En el caso de los hospitales públicos, asegura Lipovetzky, "siempre tendrá que haber quien garantice la práctica porque <strong>el Estado es garante</strong>". "Ya les transmitimos a los senadores que nosotros -se refiere al grupo que conforma con más de una decena de diputados y que impulsó la legalización- estamos disponibles para explicarles cada punto y coma del proyecto. <strong>Lo que no hay que hacer es permitir estrategias dilatorias</strong>", concluye.
+
+Gerardo Bozovich coordina la comisión de Dirección Médica de Adecra-Cedim, que agrupa a la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina y a la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio. "La redacción del proyecto implica la obligatoriedad para privados y públicos, <strong>pero los privados no tienen todos los servicios para responder a esos requerimientos</strong>. En las instituciones privadas, la mayoría de los médicos no son empleados, por los que no están obligados a responder a los requerimientos del director. Eso pone a los directores en <strong>una dificultad operativa</strong> bajo amenazas de sanciones y cárcel", sostiene.
+
+"La ley que se ha propuesto obliga a todo establecimiento sanitario, también privado, incluso confesional, a la realización de la interrupción voluntaria del embarazo. Al mismo tiempo, prohíbe toda objeción basada en el ideario fundacional de algunas de nuestras instituciones", sostiene el comunicado que firmaron, entre otras instituciones, Mater Dei, San Camilo y San Juan de Dios. El Hospital Iturraspe de Santa Fe, cuyos médicos se declaran objetores,<strong> es la institución que se negó a practicarle un aborto legal a Ana María Acevedo en 2007</strong>. La joven había sido diagnosticada con cáncer y durante el embarazo no se le podía administrar ni quimioterapia ni rayos, lo que ponía en riesgo su vida. Los médicos de ese hospital le practicaron una cesárea a los cinco meses de gestación, la beba vivió 17 horas y Ana María murió tres semanas después.
+
+"Cuando la ley esté vigente, <strong>nos ajustaremos a ella</strong>. Los médicos decidirán particularmente y nosotros como institución cumpliremos la ley tal como se sancione", cuenta Jorge Tiva, a cargo de la gerencia del grupo ASE - Medifé, que administra el Sanatorio Finochietto.
+
+El Papa también salió al cruce de la media sanción del proyecto de legalización del aborto, al decir que en algunos casos esa práctica plantea <strong>"lo mismo que hacían los nazis para cuidar la raza", pero "con guantes blancos"</strong>. Francisco aseguró: "Está de moda, es habitual. Cuando en el embarazo se ve que quizás el niño no está bien o viene con cualquier cosa, la primera oferta es '¿lo tiramos?'. El homicidio de los chicos. Para resolver una vida tranquila, se tira un inocente". En rigor, el proyecto que obtuvo media sanción despenaliza el aborto en cualquier instancia de gestación sólo cuando el feto es incompatible con la vida extrauterina y no innova sobre las otras causales de no punibilidad establecidas en 1921.
+
+ 
+

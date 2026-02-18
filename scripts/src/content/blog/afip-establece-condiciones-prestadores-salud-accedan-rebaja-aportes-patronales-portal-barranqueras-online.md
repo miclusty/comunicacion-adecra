@@ -1,0 +1,18 @@
+---
+title: "AFIP establece condiciones para que prestadores de salud accedan a rebaja de aportes patronales - Portal Barranqueras Online - 11/10/2019"
+date: 2019-10-16
+categories: ["Prensa"]
+---
+
+<p style="font-weight: 400;">La Administración Federal de Ingresos Públicos (AFIP) estableció las condiciones para que los prestadores de salud puedan acceder a la rebaja de aportes patronales a partir del 1 de agosto último, establecida por el decreto 688/2019 del lunes último.</p>
+<p style="font-weight: 400;">Lo hizo a través de la resolución general 4609/2019 publicada hoy en el Boletín Oficial, que precisó que los empleadores que al 31 de agosto de 2019 hubiesen declarado como actividad principal prestar servicios, o poseer establecimientos e instituciones relacionadas con la salud, serán caracterizados en el Sistema Registral con el código “449 – Beneficio detracción anticipada Dto. 688/2019”, a fin de aplicar el beneficio a partir del período devengado agosto de 2019.</p>
+<p style="font-weight: 400;">La misma aclaró que los empleadores también deben encontrarse inscriptos en el Registro Nacional de Prestadores o en el de Obras Sociales.</p>
+<p style="font-weight: 400;">La Superintendencia de Servicios de Salud informará a AFIP, mediante el envío del formulario F. 1266, la nómina de inscriptos en los referidos registros, así como las altas o bajas producidas en los mismos.</p>
+<p style="font-weight: 400;">A tal fin ingresará al servicio Presentación de DDJJ y Pagos disponible en el sitio web de AFIP, mediante la utilización de la clave fiscal que otorga el organismo.</p>
+<p style="font-weight: 400;">A efectos de la determinación nominativa e ingreso de los aportes y contribuciones con destino a la seguridad social, se incorporan en el sistema Declaración en Línea, y en el programa aplicativo denominado Sistema de Cálculo de Obligaciones de la Seguridad Social – SICOSS, los códigos de actividad 125 “Actividades no clasificadas – Detracción Ampliada – Dcto. 688/2019”, y 126 “Ley 15.223 con obra social – Detracción Ampliada – Dcto. 688/2019”.</p>
+<p style="font-weight: 400;">A dichos fines, la AFIP pondrá a disposición de los sujetos empleadores el release 8 de la versión 41 del mencionado programa aplicativo, y el referido sistema Declaración en Línea, incorporando las novedades.</p>
+<p style="font-weight: 400;">Los empleadores que, con posterioridad al 31 de agosto de 2019, inicien o modifiquen su actividad y declaren como actividad principal alguna de prestación de servicios de salud, a fin de computar la detracción deberán presentar determinados elementos ante la dependencia AFIP que corresponda a la jurisdicción de su domicilio.</p>
+<p style="font-weight: 400;">Se trata de una nota que contenga una descripción clara y precisa de la actividad principal desarrollada, indicando la fecha de inicio o modificación de la misma; y la constancia de inscripción en el Registro Nacional de Prestadores o en el de Obras Sociales.</p>
+<p style="font-weight: 400;">La mencionada presentación podrá también realizarse mediante el servicio con clave fiscal denominado Presentaciones Digitales.</p>
+<p style="font-weight: 400;">La AFIP podrá requerir al empleador, dentro del término de 15 días hábiles administrativos contados desde la fecha de la presentación efectuada, el aporte de otros elementos que considere necesarios a efectos de evaluar el carácter de la actividad principal declarada.</p>
+<p style="font-weight: 400;">Verificada la condición de actividad principal y la inscripción en el Registro Nacional de Prestadores o en el de Obras Sociales, se procederá a caracterizar al beneficiario en el Sistema Registral con el código indicado</p>

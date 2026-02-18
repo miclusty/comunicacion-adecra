@@ -1,0 +1,27 @@
+---
+title: "Coronavirus en Argentina: el Gobierno recibió a las empresas de salud para buscar un acuerdo frente a una posible emergencia sanitaria – Infobae - 13/04/2020 "
+date: 2020-04-15
+categories: ["Prensa"]
+---
+
+Los representantes del sector llevaron sus inquietudes, vinculadas con el financiamiento, la compra de insumos y la preocupación por el pago de impuestos
+
+Después de una semana donde las empresas prestadoras de salud se reunieron a diario en el Ministerio que encabeza Ginés González García para superar la crisis del sector de un modo que les permita atender la emergencia sanitaria sin el ahogo de los últimos años, Santiago Cafiero los convocó a un encuentro que se concretó en el Salón Eva Perón de la Casa Rosada. Allí, el jefe de Gabinete les transmitió la posición oficial en relación al listado de reclamos elevados al Gobierno, desde un plan de financiamiento a bajas tasas para cubrir deudas pendientes, hasta reducción y nuevos plazos para el pago de impuesto, desde el IVA (de recaudación nacional) hasta Ingresos Brutos (de orden local).
+
+Muy lejos de sus expectativas, el Gobierno solo les ofreció a las empresas que “no se autoexcluyan del Programa de Asistencia al Trabajo y la Producción (ATP)”, tal como reconoció a la salida del encuentro la titular de la AFIP, Mercedes Marcó del Pont, en un diálogo informal con los periodistas acreditados.
+
+Más tarde, en un comunicado de prensa, la Jefatura de Gabinete de Ministros expresó que “la AFIP se encargará de informar los beneficios a cada empresa a fin del corriente mes” y precisó que “la definición se conocerá previa al pago de los haberes de abril, ya que muchas empresas podrían acceder a los REPRO o la asignación complementaria al salario.” “Asimismo, el organismo informará a quienes corresponda la prórroga o reducción de las contribuciones patronales de abril que los empleadores deberán pagar a mediados de mayo”, agregó.
+
+El Jefe de Gabinete estuvo acompañado por la ya mencionada Marcó del Pont y los ministros Matías Kulfas (Desarrollo Productivo), Ginés González García (Salud) y Claudio Moroni (Trabajo). Este último se retiró antes de tiempo para brindar un informe en la Cámara de Diputados. Pero tuvo el tiempo necesario para anunciar que ya estaba a la firma la ampliación de la ley de riesgos del trabajo. A partir del nuevo decreto, los trabajadores cubiertos frente a la enfermedad del coronavirus, lo que también reclamaban las empresas.
+
+Cafiero coordinó la reunión con la Unión Argentina de Salud (UAS), que nuclea a quince cámaras prestadoras del sector, tanto público como privado, desde las prepagas hasta las prestan servicio para el PAMI, el IOMA y las obras sociales sindicales. Por el lado empresario estuvieron Mario Iván Lugones (CEPSAL), Guillermo Fabián Lorenzo (ADECRA), José Eduardo Sánchez (FEM), Néstor Porras (FECLIBA) y Enrique Cimino (Confeclisa). Por el lado del Gobierno, también estuvieron el superintendente de Servicios de Salud, Eugenio Zanarini y el gerente de delegaciones de la SSS, Víctor Urbani, además de la vicejefa de Gabinete, Cecilia Todesca.
+
+El comunicado oficial informó que los empresarios solicitaron una reunión de trabajo con el PAMI, “que se coordinará en los próximos días”. Y reconoció que “se analizó la situación que atraviesa el sector de salud en lo que refiere a las distintas actividades e instituciones como sanatorios, clínicas, servicios de internación domiciliaria y emergencias, con el fin de etablecer las medidas necesarias de cara a los próximos dos meses”.
+
+Los prestadores venían pidiendo una mayor articulación con el Estado apenas se inició la crisis sanitaria. Sin embargo, solo lograron que se involucre el Ministro de Salud una vez que se produjo una crisis ante la opinión pública, cuando trascendió el proyecto del Gobierno de intervenir en el gerenciamiento del sistema o, lo que pasó a llamarse, una “estatización” siguiendo el modelo irlandés, en forma temporaria, y para garantizar la equidad de la respuesta sanitaria.
+
+“Generar un conflicto con el sector privado en este momento, ¿a quién se le ocurre?”, dijo entonces uno de los referentes de las prestadoras de salud que vieron con alta preocupación los rumores de que el Estado se disponía a estatizar el sistema a través de un DNU que empezó a circular por los principales despachos del Gobierno, sin antes consensuarlo con los privados.
+
+Al consultarlo sobre las razones que habrá tenido el Gobierno para impulsar un proyecto de esas características, un hombre más vinculado a las prestaciones de las obras sindicales expresó que "supongo que alguien habrá creído que era fácil, pero nosotros tenemos una infinidad de problemas, que venimos arrastrando del año pasado y cuya solución no podemos dilatar más, porque si se pretende dar respuesta a un pico o a una mayor cantidad de contagios, no será posible hacerlo sin trabajarlo en forma coordinada”.
+
+FUENTE: <a href="https://www.infobae.com/politica/2020/04/13/coronavirus-en-argentina-el-gobierno-recibio-a-las-empresas-de-salud-para-buscar-un-acuerdo-frente-a-una-posible-emergencia-sanitaria/">https://www.infobae.com/politica/2020/04/13/coronavirus-en-argentina-el-gobierno-recibio-a-las-empresas-de-salud-para-buscar-un-acuerdo-frente-a-una-posible-emergencia-sanitaria/</a>

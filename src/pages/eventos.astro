@@ -1,0 +1,158 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const events = await getCollection('events');
+const sortedEvents = events.sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
+
+const now = new Date();
+const upcomingEvents = sortedEvents.filter(e => e.data.date >= now);
+const pastEvents = sortedEvents.filter(e => e.data.date < now);
+
+// Obtener años para filtro
+const years = [...new Set(sortedEvents.map(e => e.data.date.getFullYear()))].sort().reverse();
+const currentYear = Number(Astro.url.searchParams.get('year')) || null;
+---
+
+<Layout title="Eventos - Comunicación ADECRA">
+  <section class="py-12">
+    <div class="container mx-auto px-4">
+      <!-- Header -->
+      <div class="mb-10">
+        <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Eventos y Capacitaciones</h1>
+        <p class="text-gray-600">{events.length} eventos programados</p>
+      </div>
+
+      <!-- Filtros por año -->
+      <div class="flex flex-wrap gap-2 mb-8">
+        <a 
+          href="/eventos" 
+          class:list={[
+            "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+            !currentYear ? "bg-green-600 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+          ]}
+        >
+          Todos
+        </a>
+        {years.map(year => (
+          <a 
+            href={`/eventos?year=${year}`}
+            class:list={[
+              "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+              currentYear === year ? "bg-green-600 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+            ]}
+          >
+            {year}
+          </a>
+        ))}
+      </div>
+
+      <!-- Eventos próximos -->
+      {!currentYear && upcomingEvents.length > 0 && (
+        <div class="mb-12">
+          <h2 class="text-xl font-semibold text-green-600 mb-6 flex items-center gap-2">
+            <i class="fas fa-calendar-check"></i>
+            Próximos Eventos
+          </h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {upcomingEvents.slice(0, 6).map((event) => (
+              <a href={`/eventos/${event.slug}`} class="block group">
+                <article class="bg-white rounded-xl shadow-sm border border-green-100 overflow-hidden hover:shadow-lg hover:border-green-300 transition-all duration-300">
+                  <div class="p-6">
+                    <div class="flex items-start gap-4">
+                      <div class="bg-green-100 rounded-lg p-3 text-center min-w-[60px]">
+                        <span class="block text-green-600 font-bold text-lg">
+                          {event.data.date.toLocaleDateString('es-AR', { day: 'numeric' })}
+                        </span>
+                        <span class="block text-green-600 text-xs uppercase">
+                          {event.data.date.toLocaleDateString('es-AR', { month: 'short' })}
+                        </span>
+                      </div>
+                      <div class="flex-1">
+                        <h3 class="font-semibold text-gray-800 mb-1 group-hover:text-green-600 transition-colors line-clamp-2">
+                          {event.data.title}
+                        </h3>
+                        {event.data.location && (
+                          <p class="text-sm text-gray-500">
+                            <i class="fas fa-map-marker-alt mr-1"></i>
+                            {event.data.location}
+                          </p>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </article>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Todos los eventos filtrados por año -->
+      <div>
+        <h2 class="text-xl font-semibold text-gray-700 mb-6 flex items-center gap-2">
+          <i class="fas fa-history"></i>
+          {currentYear ? `Eventos ${currentYear}` : 'Eventos Anteriores'}
+        </h2>
+        
+        {currentYear ? (
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {sortedEvents.filter(e => e.data.date.getFullYear() === currentYear).map((event) => (
+              <a href={`/eventos/${event.slug}`} class="block group">
+                <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all duration-300 h-full">
+                  <div class="p-5">
+                    <p class="text-sm text-gray-500 mb-2">
+                      {event.data.date.toLocaleDateString('es-AR', { year: 'numeric', month: 'long', day: 'numeric' })}
+                    </p>
+                    <h3 class="font-semibold text-gray-800 mb-2 group-hover:text-green-600 transition-colors line-clamp-2">
+                      {event.data.title}
+                    </h3>
+                    {event.data.location && (
+                      <p class="text-sm text-gray-500">
+                        <i class="fas fa-map-marker-alt mr-1"></i>
+                        {event.data.location}
+                      </p>
+                    )}
+                  </div>
+                </article>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {pastEvents.slice(0, 12).map((event) => (
+              <a href={`/eventos/${event.slug}`} class="block group">
+                <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all duration-300 h-full">
+                  <div class="p-5">
+                    <p class="text-sm text-gray-500 mb-2">
+                      {event.data.date.toLocaleDateString('es-AR', { year: 'numeric', month: 'long', day: 'numeric' })}
+                    </p>
+                    <h3 class="font-semibold text-gray-800 mb-2 group-hover:text-green-600 transition-colors line-clamp-2">
+                      {event.data.title}
+                    </h3>
+                  </div>
+                </article>
+              </a>
+            ))}
+          </div>
+        )}
+      </div>
+
+      {events.length === 0 && (
+        <div class="text-center py-16">
+          <i class="fas fa-calendar-alt text-6xl text-gray-300 mb-4"></i>
+          <p class="text-gray-500 text-lg">No hay eventos publicados aún.</p>
+        </div>
+      )}
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

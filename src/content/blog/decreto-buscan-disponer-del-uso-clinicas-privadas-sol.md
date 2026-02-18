@@ -1,0 +1,15 @@
+---
+title: "Por decreto, buscan disponer del uso de clínicas privadas – El Sol - 02/04/2020 "
+date: 2020-04-03
+---
+
+<p style="font-weight: 400;">El gobierno nacional analiza la opción de declarar de interés público todos los recursos sanitarios del país.</p>
+<p style="font-weight: 400;">El Gobierno está en la búsqueda de instrumentos legales para obtener recursos materiales necesarios que permitan contener el avance del coronavirus. Para eso buscarán declarar de interés público todos los recursos sanitarios del país. Entre otras cosas, buscará disponer del uso de clínicas privadas.</p>
+<p style="font-weight: 400;">“Vamos a enviar un Decreto de Necesidad y Urgencia (DNU) para declarar de interés público todo los recursos sanitarios de la Argentina. No vamos a discutir la propiedad, podrá ser estatal o privado, pero creemos que tiene que haber un comportamiento igualitario para cada argentino”, sostuvo el ministro de Salud Ginés González García.</p>
+<p style="font-weight: 400;">Durante su exposición ante los integrantes de la comisión de Acción Social y Salud Pública de la Cámara de Diputados, el funcionario justificó la iniciativa al señalar que debe haber un "tratamiento igualitario para todos los argentinos".</p>
+<p style="font-weight: 400;">La norma permitirá dar un marco legal para que el Gobierno centralice las compras de insumos críticos y para que pueda disponer de camas y materiales de las diferentes jurisdicciones ya sean provinciales, municipales o privadas.</p>
+<p style="font-weight: 400;">Por ejemplo el decreto permitirá que el Gobierno pueda disponer que un enfermo sea tratado en instalaciones de un hospital, clínica o sanatorio público o privado de cualquier jurisdicción.</p>
+<p style="font-weight: 400;">El ministro advirtió que a través del decreto, la superintendencia de servicios de Salud hará aportes excepcionales a obras sociales y provincias por las prestaciones que se realicen por necesidad independientemente de la cobertura que tengan los pacientes.</p>
+<p style="font-weight: 400;">Desde el sector empresario señalan su malestar porque alguien sin ningún tipo de cobertura podría ser tratado en una clínica privada y, en contrapartida, un abonado a una prepaga podría ser atendido en un hospital público.</p>
+<p style="font-weight: 400;">Los empresarios señalan que esta medida terminaría con “el derecho preexistente” e incluso algunos dudan de la “constitucionalidad”. Además, muchos se preguntan qué pasará después de esta situación de emergencia que presenta la pandemia. En consecuencia, no descartan presentar amparos judiciales.</p>
+<p style="font-weight: 400;">"Todavía no sabemos si es verdad que se dictará un DNU para que el Estado disponga del uso de clínicas públicas o privadas, pero no nos pueden pedir más esfuerzo que el que estamos haciendo, que es atender al 70% de la población. Tenemos obligaciones con las obras sociales, el PAMI, la medicina prepaga y la gente que paga sus cuotas”, aseguró Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina (Adecra) y vicepresidente de la Unión Argentina de Salud (UAS).</p>

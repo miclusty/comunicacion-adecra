@@ -1,0 +1,33 @@
+---
+title: "Coronavirus: prevén hasta 9000 muertes por la menor atención de afecciones cardio y cerebrovasculares – La Nación - 20/05/2020"
+date: 2020-05-21
+categories: ["Prensa"]
+---
+
+Sanatorios y clínicas están hoy al 50% de su capacidad Crédito: Patricio Pival / AFV
+Según una publicación médica, se sumaría ese número entre abril y octubre, como consecuencia de la caída de las consultas
+Gabriela Navarra
+Desde que empezó la pandemia y el tag #quedateencasa ganó cada vez más fuerza, se redujeron drásticamente las visitas a las guardias y consultorios por otros motivos que no fueran Covid-19. Pero las enfermedades que ya existían no desaparecieron. Y las emergencias con riesgo de vida, tampoco.
+En nuestro país, las primeras causas de mortalidad son las afecciones cardio y cerebrovasculares, que en 2018 se cobraron más de 95.000 vidas. De no cambiar el escenario, según una reciente publicación del Instituto Cardiovascular de Buenos Aires (ICBA) en la revista Medicina , de abril a octubre podrían sumarse entre 6000 y 9000 muertes por estas causas debido a la falta de consulta oportuna.
+Sebastián Ameriso, jefe del Centro Integral de Neurología Vascular de Fleni, indica que durante la cuarentena se vio un descenso aproximado del 20% en consultas de urgencias por ACV y del 70% por episodios de ataques isquémicos transitorios, percibidos como más leves.
+En corazón, el panorama no es mejor. "Seis de cada diez personas con un infarto se quedan en su casa, algo muy peligroso, ya que uno de cada dos no tratados fallece y quienes sobreviven pueden tener complicaciones como insuficiencia cardíaca o arritmias y una mala calidad de vida", dice Diego Grinfeld, presidente del Colegio Argentino de Cardioangiólogos Intervencionistas (CACI).
+Según una investigación de Fleni, en nuestro país se producen entre 50.000 y 60.000 nuevos ACV por año. "El ACV causa un 10% de las muertes en la Argentina, alrededor de 12.000 anuales. Pero desde que se inició la pandemia bajó el pedido de atención aun en casos graves y es muy probable que veamos entre 100 y 200 más muertes más por mes debido a la falta de atención en agudo de ACV o strokes. El ACV, por otra parte, es la primera causa de discapacidad, aquí y en el mundo. Cuanto más se demora la consulta en agudo, más riesgo de lesiones posteriores, temporarias o permanentes", detalla Ameriso.
+
+<strong>Paradoja</strong>
+"Los sanatorios y clínicas privadas, por las que pasan el 70% de los episodios de atención médica en el país, hoy están al 50% de su capacidad", señala el doctor Gerardo Bozovich, director médico del Instituto de Diagnóstico y Tratamiento (IADT). "Los sanatorios están vacíos -afirma-. Pero hoy es más riesgoso ir al supermercado que hacerse una colonoscopía".
+Una investigación de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento (Adecra/Cedim) sobre 32 sanatorios, clínicas, hospitales privados, centros de diagnóstico y tratamiento ambulatorio del área metropolitana señala que en abril de este año las prestaciones cayeron hasta un 75% respecto del mismo mes del año anterior.
+Las consultas totales por emergencias disminuyeron un 74%; las cirugías generales, un 73%; los ingresos a emergencias con síntomas de infarto, un 62%; las angioplastias coronarias (desobstrucción de arterias), un 59%; las cirugías cardíacas centrales, un 58%; los tratamientos de arterias del cuello, cerebro, piernas y abdomen, un 65%; los ingresos por ACV, un 46%, y las endoscopías digestivas diagnósticas y terapéuticas, un 80%.
+Y el aumento de las muertes, si bien es lo más impactante, no es el único problema: en el mismo artículo de la revista Medicina antes citado, se mostró también que de mantenerse este menor control de los factores de riesgo cardiovascular (hipertensión, alto colesterol, diabetes, sobrepeso, etc.) entre abril y octubre de este año podrían producirse hasta 10.500 nuevos casos de enfermedad cardiovascular prevenibles.
+El problema, por otra parte, no es únicamente local: solo en Nueva York las muertes por infartos en el hogar por falta de atención aumentaron un 800% durante los meses que lleva la pandemia.
+Los tratamientos oncológicos también se han resentido a causa del temor de la población al Covid-19. "Cada año se diagnostican en el país 13.000 casos de cáncer de colon y se producen 20 muertes diarias por esa causa -indica el trabajo de Adecra/Cedim-. La caída en las endoscopías digestivas hasta ahora fue de un 80%, y de prolongarse será inevitable un mayor número de diagnósticos tardíos y peor pronóstico".
+Desde el Instituto Alexander Fleming, su director, Federico Coló, dice que hubo una disminución del 60% de las cirugías oncológicas y una drástica reducción de las consultas. "Un claro ejemplo es la disponibilidad de turnos. En marzo había 25 días de demora para consultar con un oncólogo. Hoy existe disponibilidad espontánea inmediata. Implementamos telemedicina, que ayuda al seguimiento, pero no puede resolver la totalidad de casos en nuestra patología", describe.
+
+<strong>Déficits irreversibles</strong>
+Jorge Correale, jefe del Servicio de Neuroinmunología y Enfermedades Desmielinizantes de Fleni, explica que en el caso de la esclerosis múltiple las consultas, habitualmente de 80 a 100 por mes, pro primera vez disminuyeron un 90%. "Esto significa que el paciente tuvo su primer evento con síntomas como parálisis facial, alteraciones en la agudeza visual o en los movimientos, pérdida de fuerza o de la sensibilidad en alguna de sus extremidades o trastornos en la marcha y, sin embargo, no concurrió a la consulta. Esta enfermedad tiene formas de aparición aguda y abrupta, y cuanto más se demora su atención puede dejar déficits neurológicos irreversibles", advirtió.
+El doctor Bozovich destacó que se han instalado en gran parte de la población dos premisas falaces: que el aislamiento social es incompatible con los controles y tratamientos médicos regulares y preventivos, y que los hospitales y los sanatorios son lugares con alto riesgo de contagio para los pacientes.
+"No sabemos cuántas personas se enfermarán o morirán por Covid-19 -concluye el director del IADT-. Pero tenemos la certeza de que dar la espalda al tratamiento precoz y regular de otras enfermedades solo puede conducir a un aumento de la mortalidad".
+Por: Gabriela Navarra
+
+Esta nota se replicó en la100.cienradios.com, urgente24.com, elancasti.com.ar – Catamarca lmneuquen.com - Neuquéncadena3.com, inforegion.com.ar, Twitter @ivancarrino, lv12.com.ar
+
+FUENTE: https://www.lanacion.com.ar/sociedad/preven-hasta-9000-muertes-por-la-menor-atencion-de-afecciones-cardio-y-cerebrovasculares-nid2367299

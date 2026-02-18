@@ -1,0 +1,9 @@
+---
+title: "Alertan que las clínicas privadas del país atraviesan una “situación complicada” - Portal El Instransigente - 02/07/2019"
+date: 2019-07-03
+categories: ["Prensa"]
+---
+
+<p style="font-weight: 400;">Los centros médicos privados del país se hallan en una “situación complicada” y por eso demandan la intervención estatal para mejorar su situación fiscal. “Todos los financiadores están negociando aranceles a la baja y el sindicato está solicitando un 32% de aumento. Hemos hecho una contrapropuesta y la semana que viene tenemos que volver a juntarnos”, reveló <strong>Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados (Adecra)</strong>.</p>
+<p style="font-weight: 400;">“Las jornadas del primer día estuvieron más orientadas a la microeconomía de nuestras compañías y los cambios de paradigmas en recursos humanos y dirección médica. En la jornada Político-Empresaria hemos analizado la macro, lo que nos mostró que estamos en una situación complicada, como nunca, y necesitamos que el Estado intervenga, mejorando la situación fiscal del sector”, detalló Cherro durante el tercer Congreso de Salud Anual.</p>
+<p style="font-weight: 400;">Mientras que <strong>Marcelo Kaufman, presidente de Cedim</strong> (ente que agrupa a los prestadores del sector del diagnóstico), criticó la escasa voz del sector ante los funcionarios. “Es una vergüenza que, con nuestro PBI del 10% y estando muy por encima de otras industrias en la creación de empleos, no tengamos la voz cantante, como tienen otros sectores”, enfatizó.</p>

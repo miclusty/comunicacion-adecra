@@ -1,0 +1,28 @@
+---
+title: "Seguimiento de medios Adecra+Cedim 04/09/2023"
+date: 2023-09-05
+---
+
+ INSTITUCIONAL - Adecra+Cedim Radiografía de la salud Jorge Cherro - Presidente de Adecra Marcelo Kaufman – Presidente de Cedim 03/09/2023 16:13 | TN - TN fin de semana - Domingo El tema está que los sistemas privados, nos contaban ADEQRA y CEDIM, están muy exigidos, están en tensión.Se reunieron ADEQRA y CEDIM, más de 3.000 profesionales en Pilar. Video Cherro: 'Se le agrega la problemática del congelamiento de las cuotas de la medicina prepaga' Jorge Cherro - Presidente de ADECRA 02/09/2023 08:04 | Milenium - Economia XXI Tenemos en línea a Jorge Cherro.Estamos escuchando a Jorge Cherro, que es presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina.Estamos escuchando a Jorge Cherro, es presidente de la Asociación de Clínicas Sanatorios y Hospitales Privados de la República de la Argentina. Audio Preocupación: Faltan insumos médicos Marcelo Kaufman - Presidente de la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio (CEDIM) 02/09/2023 11:13 | TN - TN fin de semana Es alarmante que falten los insumos. Bueno, no podía ser de otra manera con todo lo que venimos viendo por motivo de la falta de dólares para las importaciones, así que yo les podría definir que esta situación ya viene desde hace un tiempo bastante pronunciado y venimos anunciando esta situación desde que se impuso el sistema de siras y limitaciones para giro al exterior. Video Acuerdan un congelamiento parcial con las prepagas, que se hará efectivo en octubre María Julieta Rumi 04/09/2023 | La Nación | Economía | Pág. 18 | 620.64 cm2 Como consecuencia, circuló el rumor de que podrían congelarse los aranceles a los prestadores, algo que Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio, dejó en claro que no iban a aceptar. Imagen #1 Salud: el congelamiento con las prepagas se hará efectivo recién en octubre María Julieta Rumi 03/09/2023 21:49 | LaNacion.com | 4823 caracteres. Como consecuencia, circuló el rumor de que podrían congelarse los aranceles a los prestadores, algo que Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio, dejó en claro que no iban a aceptar. Ver noticia en web Prepagas: viejos problemas no atendidos por la política, prestaciones en riesgo y una medida temporal “en el peor momento” 31/08/2023 18:42 | programainfosalud.com | 8567 caracteres. Desde la asociación de clínicas y sanatorios Adecra advirtieron, además, sobre la distancia temporal que hay entre la realización de las prestaciones y los pagos que se reciben por ellas por parte de los financiadores, entre los cuales están las prepagas.“A la crisis estructural de financiamiento que las instituciones atraviesandesde hace años, producto fundamentalmente de un descalce entre costos y aranceles, se suma la problemática coyuntural, que se agravó durante los últimos días y que tiene que ver con serias dificultades para adquirir insumos clave para la atención de los pacientes, como materiales descartables y medicamento s de uso habitual”, expuso el presidente de Adecra, Jorge Cherro, en la semana posPASO. Ver noticia en web Claudio Belocopit '7 de cada 10 argentinos se atienden en el sistema privado de salud' Claudio Belocopit - Dueño de Swiss Medical Group 03/09/2023 20:51 | TN - Sólo una vuelta más Claudio Belocopitt '7 de cada 10 argentinos se atienden en el sistema privado de salud' 'La gente se acuerda de la salud cuando la pierde o el 31 de diciembre cuando pide por salud' 'La salud tiene problemas de políticas públicas desde hace tiempo' 'El sistema de salud está complicado' 'El sistema de salud tiene una crisis de financiamiento' 'El acuerdo con el gobierno consiste en : las cuotas de setiembre viene con el aumento del costo salud del 7,8% que se facturó en agosto; las cuotas que vencen en octubre y recibieron indicaciones del aumento del 6% si gana menos de $2 millones anuales está exento de ese aumento' 'El acuerdo es para septiembre, octubre y noviembre y después se vuelven a reunir' 'El gobierno le va a dar alivios fiscales al sector prestacional por este período' 'No va a ser suficiente ni nos parece bien' 'Si hay un acuerdo es para cumplirlo' Mención de la UAS, ADECRA. Video Prepagas: el congelamiento de cuotas se hará efectivo en octubre 04/09/2023 12:02 | Losprimeros.tv | 4687 caracteres. Como consecuencia, circuló el rumor de que podrían congelarse los aranceles a los prestadores, algo que Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio, dejó en claro que no iban a aceptar. Ver noticia en web Salud: el congelamiento con las prepagas se hará efectivo recién en oct
+
+
+<div class="pdf-embed my-8">
+  <iframe 
+    src="https://docs.google.com/viewer?url=https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-04_09_2023-2.pdf&embedded=true"
+    class="w-full h-[600px] border-0"
+    title="CEDIM Interior 01-09-2023"
+  ></iframe>
+  <div class="text-center mt-2">
+    <a 
+      href="https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-04_09_2023-2.pdf" 
+      target="_blank" 
+      rel="noopener"
+      class="text-sm text-blue-600 hover:underline"
+    >
+      📄 Descargar PDF
+    </a>
+  </div>
+</div>
+
+
+ 

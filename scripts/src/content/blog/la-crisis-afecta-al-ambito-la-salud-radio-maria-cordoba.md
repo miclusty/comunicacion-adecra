@@ -1,0 +1,13 @@
+---
+title: "La crisis afecta al ámbito de la salud - Radio María Córdoba - 21/08/2019"
+date: 2019-08-23
+categories: ["Novedades", "Prensa"]
+---
+
+La crisis económica golpea a casi todos en Argentina, pero en algunos sectores puede hacer más daño que en otros. Los problemas o los inconvenientes para la prestación de servicios de salud son particularmente preocupantes porque muchos de los perjudicados son personas que están atravesando una enfermedad.
+<p style="font-weight: 400;">La crisis en este sector está golpeando de distintas formas y en distintos ámbitos, desde los odontólogos y todos los profesionales de la salud que utilizan insumos importados, como en el de los sanatorios y clínicas que cada vez tienen más inconvenientes por el incremento de los costos operativos.</p>
+<p style="font-weight: 400;"><strong>Jorge Cherro es presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina</strong> y, en contacto con Radio María Argentina destacó: “Las 2 mil clínicas y sanatorios que forman parte de la Asociación están atravesando una profunda crisis económica. “Hay elementos de trabajo que son importados y no se pueden reponer”.</p>
+<p style="font-weight: 400;">AUDIO: <a href="https://radiomaria.org.ar/programacion/la-crisis-afecta-al-ambito-de-la-salud/" data-saferedirecturl="https://www.google.com/url?q=https://radiomaria.org.ar/programacion/la-crisis-afecta-al-ambito-de-la-salud/&source=gmail&ust=1566648789612000&usg=AFQjCNFu03M1vcBcNifuHaxVdF_np0NZ9A">https://radiomaria.org.ar/programacion/la-crisis-afecta-al-ambito-de-la-salud/</a></p>
+<p style="font-weight: 400;">En Córdoba se da un problema similar, pero con más particularidades, que ha llevado a la Cámara de Clínicas y Sanatorios a presentarse en el Ministerio de Trabajo de esta provincia para solicitar que se le autorice un Proceso Preventivo de Crisis debido al impacto de la devaluación en sus estructuras de costos, incluso el incremento de los haberes de los empleados acordados en paritarias.</p>
+<p style="font-weight: 400;">Al respecto dialogamos con Ignacio Escutti, abogado de la entidad empresaria quien aseguró que, “la Cámara de Clínicas y Sanatorios de la provincia de Córdoba solicitó la autorización de un Proceso Preventivo de Crisis. Estamos asfixiados y no podemos cumplir con las obligaciones que tenemos para los próximos días”.</p>
+<p style="font-weight: 400;"></p>

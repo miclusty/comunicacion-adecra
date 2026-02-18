@@ -1,0 +1,9 @@
+---
+title: "Resolución General 4854/2020"
+date: 2020-11-10
+---
+
+<p style="font-weight: 400;">El 9 de  noviembre de 2020 se publicó en el B.O. la Resolución General 4854/2020 la cual resuelve que los empleadores que resulten alcanzados por el beneficio de reducción de hasta el NOVENTA Y CINCO POR CIENTO (95%) del pago de las contribuciones patronales con destino al Sistema Integrado Previsional Argentino (SIPA) correspondientes al período devengado octubre de 2020, conforme lo establecido en la Decisión Administrativa de la Jefatura de Gabinete de Ministros No 1.954 del 28 de octubre de 2020, que cumplan con los parámetros de facturación allí indicados y que tengan como actividad principal declarada según el “Clasificador de Actividades Económicas” (Formulario No 883) aprobado por la Resolución General No 3.537, alguna de las actividades afectadas en forma crítica comprendidas en el listado publicado en el sitio “web” institucional (<a href="http://www.afip.gob.ar/" data-saferedirecturl="https://www.google.com/url?q=http://www.afip.gob.ar&source=gmail&ust=1605100816470000&usg=AFQjCNH1o1AED7lf-BnYHZF7Rdi5oLrjeA">http://www.afip.gob.ar</a>), serán caracterizados en el “Sistema Registral” con el código “461 - Beneficio Dto. 332/2020 Reducción de Contribuciones S.S.”.</p>
+<p style="font-weight: 400;">A tales efectos, deberán haber cumplido con las obligaciones previstas en el artículo 2° de la Resolución General N° 4.693, su modificatoria y sus complementarias.</p>
+<p style="font-weight: 400;">Dicha caracterización podrá ser consultada accediendo al servicio con clave fiscal denominado “Sistema Registral”, opción consulta/datos registrales/caracterizaciones.</p>
+<p style="font-weight: 400;">Para acceder al texto completo hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2020/11/RG-4854-2020-AFIP-09-11-20-Reduccion-y-postergacion-pago-SIPA-oct-20.pdf">clic aquí</a>.</p>

@@ -1,0 +1,92 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Comunicación - ADECRA + CEDIM">
+  <!-- Hero Section -->
+  <section class="relative bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
+    <div class="container mx-auto px-4">
+      <div class="max-w-3xl">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">
+          Comunicación ADECRA + CEDIM
+        </h1>
+        <p class="text-xl text-blue-100">
+          Noticias, eventos y capacitaciones para el sector de la salud
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Posts -->
+  <section class="py-16">
+    <div class="container mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-8 text-gray-800">Últimas Noticias</h2>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <a href="/blog" class="block group">
+          <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow">
+            <div class="h-48 bg-gray-200 flex items-center justify-center">
+              <i class="fas fa-newspaper text-4xl text-gray-400"></i>
+            </div>
+            <div class="p-6">
+              <h3 class="font-semibold text-lg mb-2 group-hover:text-blue-600 transition-colors">
+                Ver todas las noticias
+              </h3>
+              <p class="text-gray-600 text-sm">
+                Accedé al archivo completo de noticias y publicaciones
+              </p>
+            </div>
+          </div>
+        </a>
+
+        <a href="/eventos" class="block group">
+          <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow">
+            <div class="h-48 bg-green-100 flex items-center justify-center">
+              <i class="fas fa-calendar-alt text-4xl text-green-600"></i>
+            </div>
+            <div class="p-6">
+              <h3 class="font-semibold text-lg mb-2 group-hover:text-blue-600 transition-colors">
+                Eventos y Congresos
+              </h3>
+              <p class="text-gray-600 text-sm">
+                Congresos, jornadas y eventos del sector salud
+              </p>
+            </div>
+          </div>
+        </a>
+
+        <a href="/cursos" class="block group">
+          <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow">
+            <div class="h-48 bg-purple-100 flex items-center justify-center">
+              <i class="fas fa-graduation-cap text-4xl text-purple-600"></i>
+            </div>
+            <div class="p-6">
+              <h3 class="font-semibold text-lg mb-2 group-hover:text-blue-600 transition-colors">
+                Cursos y Diplomaturas
+              </h3>
+              <p class="text-gray-600 text-sm">
+                Capacitaciones y formación profesional
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Info Section -->
+  <section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-4">
+      <div class="max-w-2xl mx-auto text-center">
+        <h2 class="text-2xl font-bold mb-4 text-gray-800">Sobre ADECRA + CEDIM</h2>
+        <p class="text-gray-600 mb-6">
+          Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina + 
+          Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio
+        </p>
+        <a href="https://adecra.org.ar" class="inline-block bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-colors">
+          Visitar sitio institucional
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

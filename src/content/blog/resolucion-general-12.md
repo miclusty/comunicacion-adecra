@@ -1,0 +1,7 @@
+---
+title: "Resolución General 4667/2020"
+date: 2020-02-03
+---
+
+<p style="font-weight: 400;">El día 31 de enero de 2020 se publicó en el B.O. la Resolución General 4667/2020 la cual declara que los contribuyentes y responsables de los tributos cuya aplicación, percepción y fiscalización se encuentren a cargo de esta Administración Federal de Ingresos Públicos, que revistan la condición de Micro, Pequeñas y Medianas Empresas, inscriptos en el “Registro de Empresas MiPyMES” creado por la Resolución N° 220 del 12 de abril de 2019 de la entonces Secretaría de Emprendedores y de la Pequeña y Mediana Empresa y sus modificatorias, que posean el “Certificado MiPyME” vigente, así como aquellos sujetos que registren la calidad de entidades civiles sin fines de lucro, a fin de adherir al régimen de regularización de obligaciones impositivas, aduaneras y de los recursos de la seguridad social establecido por el Capítulo I del Título IV de la Ley N° 27.541, deberán cumplir las disposiciones y requisitos que se establecen por la presente.</p>
+<p style="font-weight: 400;">Para acceder al texto completo hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2020/02/RG-AFIP-4667-2020-BO-31-01-2020-Reglamentacion-PFP-Pymes.pdf">clic aquí. </a></p>

@@ -1,0 +1,14 @@
+---
+title: "Decreto 336/2021"
+date: 2021-05-26
+categories: ["Novedades"]
+---
+
+<p style="font-weight: 400;">El 25 de mayo se publicó en el B.O. el Decreto 336/2021 el cual sustituye la denominación del artículo 92 de la Reglamentación de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, aprobada como Anexo por el artículo 1° del Decreto N° 862/19, por la de “Horas extras, bono por productividad y otros”.</p>
+<p style="font-weight: 400;">Además, establece que se incorporen a continuación del primer párrafo del artículo 92 de la Reglamentación de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, aprobada como Anexo por el artículo 1° del Decreto N° 862/19, los siguientes DOS (2) párrafos: “Las exenciones a las que se refiere el segundo párrafo del citado inciso x) del artículo 26 de la ley comprenden a aquellos montos del salario percibidos por las trabajadoras o los trabajadores en relación de dependencia que cumplan las siguientes condiciones:</p>
+
+<ol>
+ 	<li style="font-weight: 400;">a) Los rubros remuneratorios creados por convenciones colectivas o contrato individual, y condicionados al cumplimiento de pautas o metas objetivas de incremento de la producción. La cláusula respectiva deberá contener una clara explicación de dichas pautas, incluyendo metas y criterios de comparación con períodos anteriores para la determinación del incremento, que no podrá ser el resultante de la extensión de la jornada laboral. No se considerarán comprendidos en este inciso, las sumas habitualmente percibidas y calculadas con base en una pauta distinta de la sola puesta a disposición de la fuerza de trabajo, como las vinculadas al destajo, a la cantidad de obras terminadas, viajes realizados o kilómetros recorridos que no reúnan las condiciones precedentemente previstas.</li>
+ 	<li style="font-weight: 400;">b) aquellas sumas fijadas en compensación del riesgo de reposición por faltantes de dinero o demás valores, abonado a cajeros, repartidores de efectivo o a cualquier otra persona que tenga como función la de cobrar y/o pagar dinero o demás valores. La ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS podrá establecer la forma y modalidades de acreditación de los conceptos mencionados en el párrafo precedente”.</li>
+</ol>
+Para vez el decreto completo, hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2021/05/decreto-336-2021-BO-25-05-21-Disposiciones-ImpGcias-4ta-categoria.pdf">click aquí</a>

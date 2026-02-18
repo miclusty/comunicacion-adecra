@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin - ADECRA Comunicación</title>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.css">
+  <style>
+    body { margin: 0; padding: 0; }
+    .auth-box {
+      max-width: 400px;
+      margin: 100px auto;
+      padding: 40px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    .auth-box h1 {
+      color: #459DDC;
+      margin-bottom: 20px;
+      font-size: 24px;
+    }
+    .auth-box input {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 16px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+    .auth-box button {
+      width: 100%;
+      padding: 12px;
+      background: #459DDC;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .auth-box button:hover {
+      background: #3589c4;
+    }
+    .auth-box .error {
+      color: #e74c3c;
+      margin-bottom: 16px;
+      font-size: 14px;
+      display: none;
+    }
+    #cms { display: none; }
+  </style>
+</head>
+<body>
+  <!-- Auth Form -->
+  <div class="auth-box" id="auth">
+    <h1>🔐 Admin ADECRA</h1>
+    <p class="error" id="error">Contraseña incorrecta</p>
+    <input type="password" id="password" placeholder="Ingresa la contraseña" />
+    <button onclick="checkPassword()">Entrar</button>
+  </div>
+
+  <!-- CMS (hidden until authenticated) -->
+  <div id="cms"></div>
+
+  <script>
+    const PASSWORD = 'ELc7v7S0T1SiN9uj';
+    
+    function checkPassword() {
+      const input = document.getElementById('password').value;
+      const error = document.getElementById('error');
+      const auth = document.getElementById('auth');
+      const cms = document.getElementById('cms');
+      
+      if (input === PASSWORD) {
+        // Save auth
+        sessionStorage.setItem('adminAuth', 'true');
+        auth.style.display = 'none';
+        cms.style.display = 'block';
+        initCMS();
+      } else {
+        error.style.display = 'block';
+      }
+    }
+    
+    // Check if already authenticated
+    if (sessionStorage.getItem('adminAuth') === 'true') {
+      document.getElementById('auth').style.display = 'none';
+      document.getElementById('cms').style.display = 'block';
+    }
+    
+    function initCMS() {
+      CMS.init({
+        config: {
+          backend: {
+            name: 'git-gateway',
+            branch: 'main',
+          },
+          media_folder: 'public/images',
+          public_folder: '/images',
+          collections: [
+            {
+              name: 'blog',
+              label: 'Noticias',
+              folder: 'src/content/blog',
+              create: true,
+              slug: '{{slug}}',
+              fields: [
+                { name: 'title', label: 'Título', widget: 'string' },
+                { name: 'description', label: 'Descripción', widget: 'text', required: false },
+                { name: 'date', label: 'Fecha', widget: 'datetime', default: new Date().toISOString() },
+                { name: 'image', label: 'Imagen', widget: 'image', required: false },
+                { name: 'pdf', label: 'PDF', widget: 'file', required: false },
+                { name: 'body', label: 'Contenido', widget: 'markdown' }
+              ]
+            },
+            {
+              name: 'events',
+              label: 'Eventos',
+              folder: 'src/content/events',
+              create: true,
+              slug: '{{slug}}',
+              fields: [
+                { name: 'title', label: 'Título', widget: 'string' },
+                { name: 'description', label: 'Descripción', widget: 'text', required: false },
+                { name: 'date', label: 'Fecha', widget: 'datetime' },
+                { name: 'endDate', label: 'Fecha Fin', widget: 'datetime', required: false },
+                { name: 'image', label: 'Imagen', widget: 'image', required: false },
+                { name: 'location', label: 'Ubicación', widget: 'string', required: false },
+                { name: 'pdf', label: 'PDF (programa)', widget: 'file', required: false },
+                { name: 'body', label: 'Contenido', widget: 'markdown' }
+              ]
+            }
+          ]
+        }
+      });
+    }
+  </script>
+</body>
+</html>

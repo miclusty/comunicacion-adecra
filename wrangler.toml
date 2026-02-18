@@ -1,0 +1,15 @@
+name = "comunicacion-adecra"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "./dist"
+
+[vars]
+SITE_URL = "https://comunicacion.adecra.org.ar"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "comunicacion-adecra"
+database_id = "xxx"
+
+[[pages]]
+bucket = "./dist"
+binding = "ASSETS"

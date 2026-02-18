@@ -1,0 +1,15 @@
+---
+title: "Los costos de la salud privada subieron un 17,5% en el tercer trimestre del año - Inversores Salud - 03/12/2019"
+date: 2019-12-05
+---
+
+<p style="font-weight: 400;">Esta nota fue replicada en Consenso Salud, Newstral, en el Portal Agen Hoy y en portal La Auténtica Defensa.</p>
+<p style="font-weight: 400;">Según el Índice de Precios para la Atención Médica que elabora trimestralmente Adecra+Cedim, las inversiones y los insumos médicos fueron los indicadores que mostraron los mayores aumentos en la estructura general de costos, con un 33,9% y un 31,4%, respectivamente, en comparación con el trimestre anterior, debido a la brusca devaluación del peso frente al dólar, posterior a las PASO.</p>
+<p style="font-weight: 400;">Adecra+Cedim publicó un nuevo Índice de Precios -el indicador que, desde 2004, mide la variación de los precios de los principales insumos que las instituciones de salud privada utilizan para producir atención médica-, esta vez para calcular las subas del tercer trimestre de 2019.</p>
+<p style="font-weight: 400;">Si bien los costos laborales son la categoría del Índice con mayor peso dentro de la estructura de costos de los prestadores de salud –representan el 74% de los costos totales- y este trimestre tuvieron una suba considerable, en el orden del 15,1%, el estudio indicó que las inversiones en equipamiento y los insumos médicos sufrieron, en este periodo, las mayores subas respecto a los meses anteriores.</p>
+<p style="font-weight: 400;">“Las inversiones presentaron un incremento promedio de 33,9%, acompañando la importantísima devaluación del peso argentino, luego de las Elecciones Primarias”, manifestaron desde la cámara, y agregaron que, “dentro del 31,4% de aumento de los insumos médicos, los medicamentos y descartables escalaron a 35,6%, las imágenes a 26,3% y los reactivos de laboratorio a 15,5%”.</p>
+<p style="font-weight: 400;">“En el caso de algunas instituciones, se han verificado cambios de proveedores para garantizar mejores precios. Gracias a esto, algunos prestadores han logrado evitar percibir aumentos más pronunciados que los esperados por la enorme devaluación”, explicaron.</p>
+<p style="font-weight: 400;">En cuanto a los insumos no médicos, el incremento fue del 13,7%, ponderando alimentación (con un 15,1%, siendo la variable más importante dentro de la categoría), lavandería (5,6%), recolección de residuos patogénicos (4,0%) y provisión de oxígeno (29,6%).</p>
+<p style="font-weight: 400;">Por último, los servicios médicos, el rubro con menor peso dentro de los costos prestacionales, ascendieron a 1,2% respecto al segundo trimestre, “situación que se explica por el congelamiento de tarifas post Elecciones de agosto”, fundamentaron.</p>
+<p style="font-weight: 400;">“Aunque algunas de las categorías han sido especialmente afectadas, por estar más condicionadas a los vaivenes del peso-dólar, el Índice de estos meses nos muestra que los prestadores hemos sufrido aumentos significativos en todos los rubros”, puntualizaron desde Adecra+Cedim.</p>
+<p style="font-weight: 400;">Prensa Adecra+Cedim</p>

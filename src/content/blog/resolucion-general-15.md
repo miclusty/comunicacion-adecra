@@ -1,0 +1,10 @@
+---
+title: "Resolución 4602/2019"
+date: 2019-10-07
+---
+
+<p style="text-align: justify;">El 4 de octubre de 2019 se publicó en el B. O. la Resolución General 4602/2019 la cual sustituye el Art. 1 de la Resolución general 4568 por el siguiente:</p>
+<p style="text-align: start; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"> “ARTÍCULO 1°.- Impleméntase en el ámbito del “Sistema Registral” la caracterización denominada “Potencial Micro, Pequeña y Mediana Empresa –Tramo I y II” para aquellos contribuyentes que no hayan solicitado su inscripción en el “REGISTRO DE EMPRESAS MiPyMES” o no dispongan de un “Certificado MiPyME” vigente, y que a criterio de esta Administración Federal resulten asimilables a los sujetos inscriptos en el mencionado registro, conforme a lo dispuesto en los artículos siguientes.</p>
+<p style="text-align: start; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;">La referida caracterización permitirá acceder, cuando este Organismo expresamente lo disponga, a determinadas condiciones especiales en los planes de facilidades de pago, en la aplicación del régimen tributario –tasas diferenciales, exclusión de regímenes de retención y/o percepción, etc.- y en otras operatorias en el marco de sus competencias.”.</p>
+<p style="text-align: start; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"> </p>
+<p style="text-align: start; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;">Para acceder al texto completo de la resolución <a href="https://www.adecra.org.ar/biblioteca-archivos/resolucion-46022019/">hacer clic aquí</a>.</p>

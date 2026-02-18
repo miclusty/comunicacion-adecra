@@ -1,0 +1,13 @@
+---
+title: "Manifiestan que los indicadores de opinión pública empezaron a mejorar -  La Prensa – Ed. Impresa - 02/07/2019"
+date: 2019-07-03
+categories: ["Prensa"]
+---
+
+<p style="font-weight: 400;"><strong>Manifiestan que los indicadores de opinión pública empezaron a mejorar</strong></p>
+<p style="font-weight: 400;">Ante un auditorio de más de 800 personas y más de 120 siguiendo la transmisión vía streaming, Adecra+Cedim llevó adelante la tercera edición del Congreso de Salud anual, que convocó a exponentes de primer nivel del empresariado del sector y referentes nacionales e internacionales.</p>
+<p style="font-weight: 400;">“Las jornadas del primer día estuvieron más orientadas a la microeconomía de nuestras compañías y los cambios de paradigmas en recursos humanos y dirección médica. En la jornada Político-Empresaria, hemos analizado la macro, lo que nos mostró que estamos en una situación complicada, como nunca, y necesitamos que el Estado intervenga, mejorando la situación fiscal del sector”, explicó <strong>el presidente de Adecra, Jorge Cherro</strong>.</p>
+<p style="font-weight: 400;">Por su parte, <strong>el presidente de Cedim, Marcelo Kaufman</strong>, hizo referencia a la fragmentación y al poco “poder” que los funcionarios de Estado le dan al arco de la salud privada: “Es una vergüenza que, con nuestro PBI del 10% y estando muy por encima de otras industrias en la creación de empleos, no tengamos la voz cantante, como tienen otros sectores”. En tanto, desde una mirada macroeconómica, <strong>el ex titular del Banco Nación, Carlos Melconian</strong>, analizó la coyuntura política-económica actual del país y el punto de partida del próximo presidente: “No hay chance de que sectorialmente anden bien las cosas si la macroeconomía anda mal. Macri tiene la responsabilidad de la mala praxis de 2016 y 2017, después vino el “Plan Picapiedra”, pero la herencia fue espantosa y asintomática”.</p>
+<p style="font-weight: 400;">Por último, el presidente de Poliarquía Consultores, <strong>Alejandro Catterberg</strong>, habló del panorama político-electoral: <strong>“No sabemos quién va a ganar pero sí sabemos que los indicadores de opinión pública empezaron a mejorar, luego de una caída consistente desde hace más de un año”</strong> y agregó: “Mi impresión es que Macri necesita tiempo: un tipo de cambio estable e inflación a la baja; si esas variables se cumplen, no es seguro que gane pero necesita sí o sí de esas condiciones”.</p>
+<p style="font-weight: 400;"></p>
+<p style="font-weight: 400;"> </p>

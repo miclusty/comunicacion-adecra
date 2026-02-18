@@ -1,0 +1,53 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Buscar - Comunicación ADECRA">
+  <section class="py-16">
+    <div class="container mx-auto px-4 max-w-4xl">
+      <h1 class="text-3xl font-bold mb-8 text-gray-800">Buscar</h1>
+      
+      <div id="search" class="mb-8"></div>
+      
+      <div id="results" class="space-y-6"></div>
+    </div>
+  </section>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({ 
+        element: "#search", 
+        showSubResults: true,
+        showImages: true,
+        translations: {
+          placeholder: "Buscar noticias, eventos..."
+        }
+      });
+    });
+  </script>
+  
+  <style is:global>
+    .pagefind-ui__search-input {
+      font-size: 1.125rem;
+      padding: 1rem;
+      border: 2px solid #e5e7eb;
+      border-radius: 0.5rem;
+    }
+    .pagefind-ui__result {
+      padding: 1rem;
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .pagefind-ui__result-title {
+      font-weight: 600;
+      color: #459DDC;
+    }
+    .pagefind-ui__result-excerpt {
+      color: #6b7280;
+    }
+  </style>
+</Layout>

@@ -1,0 +1,54 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+const courses = posts.filter(p => p.data.type === 'course');
+const sortedCourses = courses.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Layout title="Cursos y Diplomaturas - Comunicación ADECRA">
+  <section class="py-16">
+    <div class="container mx-auto px-4">
+      <h1 class="text-3xl font-bold mb-8 text-gray-800">Cursos y Diplomaturas</h1>
+      
+      {courses.length === 0 ? (
+        <div class="text-center py-12">
+          <i class="fas fa-graduation-cap text-6xl text-gray-300 mb-4"></i>
+          <p class="text-gray-500">No hay cursos publicados aún.</p>
+        </div>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {sortedCourses.map((course) => (
+            <a href={`/blog/${course.slug}`} class="block group">
+              <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow h-full">
+                {course.data.image && (
+                  <div class="h-48 overflow-hidden">
+                    <img 
+                      src={course.data.image} 
+                      alt={course.data.title}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    />
+                  </div>
+                )}
+                <div class="p-6">
+                  <span class="inline-block bg-purple-100 text-purple-700 text-xs px-3 py-1 rounded-full mb-2">
+                    {course.data.type === 'course' ? 'Curso' : 'Diplomatura'}
+                  </span>
+                  <h2 class="font-semibold text-lg mb-2 group-hover:text-blue-600 transition-colors">
+                    {course.data.title}
+                  </h2>
+                  {course.data.description && (
+                    <p class="text-gray-600 text-sm line-clamp-3">
+                      {course.data.description}
+                    </p>
+                  )}
+                </div>
+              </article>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</Layout>

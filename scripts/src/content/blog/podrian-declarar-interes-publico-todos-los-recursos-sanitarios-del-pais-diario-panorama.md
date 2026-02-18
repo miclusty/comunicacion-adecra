@@ -1,0 +1,14 @@
+---
+title: "Podrían declarar de interés público todos los recursos sanitarios del país – Diario Panorama - 02/04/2020 "
+date: 2020-04-03
+categories: ["Prensa"]
+---
+
+<p style="font-weight: 400;">La posibilidad es analizada por el presidente Alberto Fernández. La medida sería temporal y se implementaría mediante un Decreto de Necesidad y Urgencia.</p>
+<p style="font-weight: 400;">El presidente Alberto Fernández podría declarar de interés público todos los recursos sanitarios del país. Para muchos, se trata de una posible estatización del sistema aunque sería de forma temporaria para hacer frente a la pandemia.</p>
+<p style="font-weight: 400;">“Vamos a enviar un Decreto de Necesidad y Urgencia (DNU) para declarar de interés público todo los recursos sanitarios de la Argentina. No vamos a discutir propiedad. Podrá ser estatal o privado, pero creemos que tiene que tener un comportamiento igualitario para todos los argentinos”, expresó el miércoles en una teleconferencia con diputados el ministro de Salud Ginés González García.</p>
+<p style="font-weight: 400;">En concreto, el funcionario aseguró que es importante que "cada jurisdicción entienda racionalmente que todos los argentinos tengan los recursos que tienen que tener”. En ese sentido, esta previsto que hoy se concrete una reunión entre González García y los responsables del sector privado.</p>
+<p style="font-weight: 400;">El objetivo del Gobierno es tener la posibilidad de derivar infectados por coronavirus a cualquier hospital del país más allá de si pertenece al sistema de salud público o privado.</p>
+<p style="font-weight: 400;">"Iremos a la reunión con el Ministro a escuchar. Todavía no sabemos si es verdad que se dictará un DNU para que el Estado disponga del uso de clínicas públicas o privadas, pero no nos pueden pedir más esfuerzo que el que estamos haciendo, que es atender al 70% de la población. Tenemos obligaciones con las obras sociales, el PAMI, la medicina prepaga y la gente que paga sus cuotas”, aseguró el <strong>presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina (Adecra) y vicepresidente de la Unión Argentina de Salud (UAS) Jorge Cherro.</strong></p>
+<p style="font-weight: 400;">De concretarse la medida, los pacientes por coronavirus podrán atenderse en cualquier hospital en base a proximidad, disponibilidad de camas, etc. De esta manera, alguien sin ningún tipo de cobertura podría ser tratado en una clínica privada y, en contrapartida, un abonado a una prepaga podría ser atendido en un hospital público.</p>
+<p style="font-weight: 400;">Ginés aseguró que por el momento se está realizando "un intercambio de opiniones" y explicó que se trata de una medida extraordinaria que le permitiría al país contar "no sólo con los insumos sino el conocimiento" de todos los centros de salud.</p>

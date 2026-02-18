@@ -1,0 +1,7 @@
+---
+title: "Resolución General 4779/2020"
+date: 2020-07-30
+---
+
+<p style="font-weight: 400;">El 29 de julio de 2020 se publicó en el B.O. la Resolución General 4779/2020 la cual resuelve disponer que los sujetos mencionados en el artículo 1° de la Resolución General No 4.693, su modificatoria y sus complementarias, podrán acceder al servicio “web” “Programa de Asistencia de Emergencia al Trabajo y la Producción - ATP”, desde el 29 de julio de 2020 hasta el 4 de agosto de 2020, ambas fechas inclusive, a los efectos de obtener –de así corresponder- los beneficios establecidos en los incisos a) y b) del artículo 2o del Decreto No 332/20 y sus modificatorios, respecto de los salarios y contribuciones con destino al Sistema Integrado Previsional Argentino que se devenguen durante el mes de julio de 2020, y el beneficio de crédito a tasa subsidiada para empresas previsto en el inciso e) del artículo 2o del citado Decreto, de conformidad con lo dispuesto por la Decisión Administrativa de la Jefatura de Gabinete de Ministros No 1.343 del 28 de julio de 2020.</p>
+<p style="font-weight: 400;">Para acceder al texto completo hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2020/07/RG-4779-2020-AFIP-BO-29-07-20-programa-ATP-mes-julio-20.pdf">clic aquí</a>.</p>

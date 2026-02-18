@@ -1,0 +1,15 @@
+---
+title: "Consensos básicos para la salud - Diario El Argentino - 12/05/2019"
+date: 2019-05-13
+---
+
+La Argentina es uno de los países que más dinero destinan a los servicios de salud, aunque ello resulta insuficiente para atender en forma satisfactoria los requerimientos de millones de personas.
+<p style="font-weight: 400;">En no pocos casos, los servicios son escasos o prestados a través de tortuosos caminos burocráticos que provocan un daño mayor o la muerte de los pacientes, como se verificó semanas atrás en la provincia de Córdoba. Los costos de las prestaciones aumentaron por el mayor uso de la tecnología, cuya incorporación y mantenimiento demandan más presupuesto, por el valor de los medicamentos y por las mayores expectativas de vida.</p>
+<p style="font-weight: 400;">El Instituto Nacional de Estadística y Censos (INDEC) estima que el 15 por ciento de la población está constituida por adultos mayores, es decir, que superan los 60 años. Serían siete millones de personas.</p>
+<p style="font-weight: 400;">Los medicamentos, en muchos casos compuestos por monodrogas importadas o insumos del exterior, registraron un incremento promedio del 298 por ciento en los últimos cuatro años, según informes privados, mientras que el haber mínimo de la jubilación nacional sólo se incrementó 172 por ciento en ese período.</p>
+<p style="font-weight: 400;">El desfasaje entre los costos y los aportes de trabajadores y jubilados es notable, lo cual provoca déficit en los presupuestos públicos y privados. La crítica situación es visible en dispensarios y hospitales, así como en los servicios que prestan obras sociales y compañías de medicina prepaga.</p>
+<p style="font-weight: 400;">La recién conformada <strong>Unión Argentina de la Salud (UAS)</strong>, que agrupa a las ocho cámaras prestadoras de la medicina privada que atienden al 70 por ciento de la demanda, lanzó una alerta a las autoridades. Pidió establecer reglas claras que permitan la financiación de las prestaciones y, en algunos casos, un aporte oficial por los mayores costos que se originan por prácticas onerosas.</p>
+<p style="font-weight: 400;">En forma paralela, los representantes del sector privado alertaron sobre la aparición de fallos judiciales que obligan a determinadas prestaciones o tratamientos que no figuran en los contratos celebrados entre las empresas y los beneficiarios.</p>
+<p style="font-weight: 400;">En la mayoría de los casos, las sentencias no establecen con precisión cómo y qué ente debe financiar esa mayor atención, que tiene que ser asumida por las empresas de medicina prepaga o por las obras sociales.</p>
+<p style="font-weight: 400;">La enorme masa de dinero que se destina a la salud exige consensos básicos entre el sector público, los prestadores privados y las obras sociales, para coordinar acciones y servicios que tengan una cobertura universal y sustentable.</p>
+<p style="font-weight: 400;">Es una tarea urgente demandada por los cambios operados en la salud, donde deben involucrarse todos los sectores políticos, pues se trata de una cuestión esencial de la sociedad.</p>

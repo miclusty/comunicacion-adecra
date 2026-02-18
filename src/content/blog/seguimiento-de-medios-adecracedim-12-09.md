@@ -1,0 +1,28 @@
+---
+title: "Seguimiento de medios Adecra+Cedim 12/09/2023"
+date: 2023-09-15
+---
+
+ Resumen de noticias Institucional - Adecra+Cedim Crisis agravada Alerta por las prestaciones: las causas por las que cruje el sistema de salud Gabriela Origlia 10/09/2023 | La Nación | Sup. Economía | Pág. 2 | 1988.76 cm2 Según un estudio hecho por la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio (Adecra+Cedim) -que reúnen a420asociados-, en el país hay 200.000 médicos y el mismo número de enfermeros; 15.000centros privados de análisis clínicos, estudios por imágenes y prácticas médicas ambulatorias y 160.000 camas, que se reparten por mitades entre el sector privado y el público. Imagen #1 Imagen #2 Cuotas congeladas Una medida parche, en un sistema con viejos y nuevos problemas que ajusta por prestaciones Silvia Stang 10/09/2023 | La Nación | Sup. Economía | Pág. 5 | 779.56 cm2 "Por falta de una pieza [que no se puede importar en un cierto plazo], un equipo puede estar parado un montón de tiempo; tenemos patrimonio que no puede producir y los afiliados sufren la demora", describe Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados (Adecra). Imagen #1 Alerta por las prestaciones: por qué cruje el sistema de salud y cuáles son las posibles soluciones Gabriela Origlia 10/09/2023 00:15 | LaNacion.com | 12265 caracteres. Según un estudio hecho por la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio (Adecra+Cedim) –que reúnen a 420 asociados–, en el país hay 200.000 médicos y el mismo número de enfermeros; 15.000 centros privados de análisis clínicos, estudios por imágenes y prácticas médicas ambulatorias y 160.000 camas, que se reparten por mitades entre el sector privado y el público. Ver noticia en web Prepagas: una medida parche, en un sistema con viejos y nuevos problemas que ajusta por prestaciones Silvia Stang 10/09/2023 00:16 | LaNacion.com | 8678 caracteres. “Por falta de una pieza [que no se puede importar en un determinado plazo], un equipo puede estar parado un montón de tiempo; tenemos patrimonio que no puede producir y los afiliados sufren la demora”, describe Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados (Adecra). Ver noticia en web Alerta de pacientes por una decisión del Gobierno sobre la cobertura de remedios 12/09/2023 10:41 | programainfosalud.com | 7568 caracteres. Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospital es Privados de la República Argentina (Adecra), tuvo ante la consulta de Clarín una lectura más aprobatoria, aunque con algún reparo: “Todo lo que contribuya a poder asesorar a los jueces en temas tan complejos como todo lo relacionado con la salud me parece importante". Ver noticia en web Alerta por las prestaciones: por qué cruje el sistema de salud y cuáles son las posibles soluciones 10/09/2023 22:47 | programainfosalud.com | 12835 caracteres. Según un estudio hecho por la Asociación de Clínicas, Sanatorios y Hospital es Privados de la República Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio (Adecra+Cedim) –que reúnen a 420 asociados–, en el país hay 200.000 médicos y el mismo número de enfermeros; 15.000 centros privados de análisis clínicos, estudios por imágenes y prácticas médicas ambulatorias y 160.000 camas, que se reparten por mitades entre el sector privado y el público. Ver noticia en web Crisis en la salud: prestadores advierten que no pueden soportar el congelamiento de las cuotas Nico Bianchi 11/09/2023 20:33 | CurarconOpinion.com | 2936 caracteres. Jorge Cherro, presidente de la Asociación de Clínicas Privadas Adecra, destaca que esta dinámica económica está alterando la dinámica de la actividad médica, lo que a su vez está afectando la calidad de la atención. Ver noticia en web Alerta por las prestaciones|Por qué cruje el sistema de salud y cuáles son las posibles soluciones 11/09/2023 19:55 | Diagnosticsnews.com | 12189 caracteres. Según un estudio hecho por la Asociación d e Clínicas, Sanatorios y Hospitales Privados de la República Argentina y la Cámara de Entidades de Diagnóstico y Tratamiento Ambulatorio (Adecra+Cedim) –que reúnen a 420 asociados –, en el país hay 200.000 médicos y el mismo número de enfermeros; 15.000 centros privados de análisis clínicos , estudios por imágenes y prácticas médicas ambulatorias y 160.000 camas, que se reparten por mitades entre el sector privado y el público. Ver noticia en web Alerta de pacientes por una decisión del Gobierno sobre la cobertura de remedios Pablo Sigal 12/09/2023 06:01 | Clarin.com | 7083 caracteres. Jorge Cherro, presidente de la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina (Adecra), tuvo ante la consulta de Clarín una
+
+
+<div class="pdf-embed my-8">
+  <iframe 
+    src="https://docs.google.com/viewer?url=https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-12_09_2023.pdf&embedded=true"
+    class="w-full h-[600px] border-0"
+    title="CEDIM Interior 01-09-2023"
+  ></iframe>
+  <div class="text-center mt-2">
+    <a 
+      href="https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-12_09_2023.pdf" 
+      target="_blank" 
+      rel="noopener"
+      class="text-sm text-blue-600 hover:underline"
+    >
+      📄 Descargar PDF
+    </a>
+  </div>
+</div>
+
+
+ 

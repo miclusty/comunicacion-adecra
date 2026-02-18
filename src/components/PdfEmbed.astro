@@ -1,0 +1,98 @@
+---
+interface Props {
+  url: string;
+  title?: string;
+}
+
+const { url, title } = Astro.props;
+
+const pdfUrl = url.replace('http://localhost:8888/comunicacion-adecra', 'https://comunicacion.adecra.org.ar');
+---
+
+<div class="pdf-container my-6">
+  <div class="pdf-wrapper">
+    <iframe 
+      src={`https://docs.google.com/viewer?url=${encodeURIComponent(pdfUrl)}&embedded=true`}
+      loading="lazy"
+      title={title || 'PDF'}
+    ></iframe>
+  </div>
+  <div class="pdf-footer">
+    <a 
+      href={pdfUrl} 
+      target="_blank" 
+      rel="noopener noreferrer"
+      class="pdf-download-btn"
+    >
+      <span>📄</span> Descargar PDF
+    </a>
+  </div>
+</div>
+
+<style>
+  .pdf-container {
+    background: #f8f9fa;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #e9ecef;
+  }
+  
+  .pdf-wrapper {
+    position: relative;
+    width: 100%;
+    padding-top: 75%; /* 4:3 aspect ratio */
+    background: #fff;
+  }
+  
+  .pdf-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  
+  .pdf-footer {
+    padding: 12px 16px;
+    background: #f8f9fa;
+    text-align: center;
+    border-top: 1px solid #e9ecef;
+  }
+  
+  .pdf-download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: #459DDC;
+    color: white;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+  
+  .pdf-download-btn:hover {
+    background: #3589c4;
+    color: white;
+  }
+  
+  /* Mobile optimizations */
+  @media (max-width: 768px) {
+    .pdf-wrapper {
+      padding-top: 100%; /* 1:1 on mobile for better visibility */
+    }
+    
+    .pdf-footer {
+      padding: 10px 12px;
+    }
+    
+    .pdf-download-btn {
+      width: 100%;
+      justify-content: center;
+      padding: 12px 16px;
+    }
+  }
+</style>

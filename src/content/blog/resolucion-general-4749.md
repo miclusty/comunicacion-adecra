@@ -1,0 +1,70 @@
+---
+title: "Resolución General 4749/2020"
+date: 2020-07-02
+---
+
+<p style="font-weight: 400;">El 30 de junio se publicó en el B.O. la Resolución General 4749/2020 la cual sustituye el artículo 1° de la Resolución General N° 4.685, por el siguiente:</p>
+<p style="font-weight: 400;"></p>
+<p style="font-weight: 400;">“ARTÍCULO 1°.- Establecer, con carácter de excepción, hasta el día 31 de julio de 2020, inclusive, la utilización obligatoria del servicio con Clave Fiscal denominado “Presentaciones Digitales”, implementado por la Resolución General N° 4.503 y su complementaria, para realizar electrónicamente las presentaciones y/o comunicaciones que se indican a continuación:</p>
+<p style="font-weight: 400;">DESCRIPCIÓN DEL TRÁMITE</p>
+<p style="font-weight: 400;">Alta retroactiva de impuestos</p>
+<p style="font-weight: 400;">Aporte de documentación Reintegro SIR</p>
+<p style="font-weight: 400;">Asociación de CUITs</p>
+<p style="font-weight: 400;">Baja retroactiva en impuestos y/o regímenes</p>
+<p style="font-weight: 400;">Beneficio detracción anticipada</p>
+<p style="font-weight: 400;">Bonos fiscales - Utilización de imputación en exceso de anticipos</p>
+<p style="font-weight: 400;">Cambio de domicilio fiscal - Personas humanas</p>
+<p style="font-weight: 400;">Cambio de fecha de cierre de ejercicio</p>
+<p style="font-weight: 400;">Cancelación de inscripción por fallecimiento o alta de sucesión</p>
+<p style="font-weight: 400;">Capacidad Económica Financiera - CEF - Disconformidad</p>
+<p style="font-weight: 400;">Carga de fecha de jubilación</p>
+<p style="font-weight: 400;">Certificado de capacidad económica - Personas con discapacidad</p>
+<p style="font-weight: 400;">Certificado de exclusión de retención de IVA - RG N° 2.226</p>
+<p style="font-weight: 400;">Certificado de exención impuesto a las ganancias - RG N° 2.681</p>
+<p style="font-weight: 400;">Certificado de libre deuda previsional - Ley N° 13.899</p>
+<p style="font-weight: 400;">Certificado de no retención de impuesto a las ganancias - RG N° 830</p>
+<p style="font-weight: 400;">Certificado de no retención del régimen de seguridad social - Disconformidad</p>
+<p style="font-weight: 400;">Certificado de residencia fiscal</p>
+<p style="font-weight: 400;">Certificado de ventajas impositivas - RG N° 2.440</p>
+<p style="font-weight: 400;">Consultas no vinculantes - Art. 12 Decreto N° 1.397/79</p>
+<p style="font-weight: 400;">Consultas vinculantes - RG N° 4.497</p>
+<p style="font-weight: 400;">Controlador fiscal - Baja y/o recambio de memoria</p>
+<p style="font-weight: 400;">Detracción para empleadores concesionarios de servicios públicos</p>
+<p style="font-weight: 400;">Devolución de saldos de libre disponibilidad - RG N° 2.224</p>
+<p style="font-weight: 400;">Ejecuciones fiscales - Dación de pago de embargos (Título II)</p>
+<p style="font-weight: 400;">Ejecuciones fiscales - Plan de pagos de honorarios</p>
+<p style="font-weight: 400;">Ejecuciones fiscales - Presentaciones y comunicaciones varias</p>
+<p style="font-weight: 400;">Empadronamiento de imprentas</p>
+<p style="font-weight: 400;">Factura M - Disconformidad</p>
+<p style="font-weight: 400;">Habilitación de comprobantes - Suspensión para acreditación ante dependencia</p>
+<p style="font-weight: 400;">Impugnación - RG N° 79</p>
+<p style="font-weight: 400;">Modificación de capacidad productiva</p>
+<p style="font-weight: 400;">Modificación de nombres, apellido y/o género</p>
+<p style="font-weight: 400;">Modificación estado administrativo CUIT - Modalidad reactivación presencial</p>
+<p style="font-weight: 400;">MONOTRIBUTO - Modificación de categoría actual por error</p>
+<p style="font-weight: 400;">Planes de pago - Anulaciones, cancelaciones anticipadas totales y otras</p>
+<p style="font-weight: 400;">Presentación de escritos recursivos - Art. 74 Decreto N° 1.397/79</p>
+<p style="font-weight: 400;">Presentación F. 408 - Allanamiento o desistimiento</p>
+<p style="font-weight: 400;">Presentación F. 885 - Modificación alta y baja de empleados - RG N° 2.988</p>
+<p style="font-weight: 400;">Procesamiento o anulación de compensaciones</p>
+<p style="font-weight: 400;">Promoción del desarrollo y producción de la biotecnología moderna</p>
+<p style="font-weight: 400;">Recupero de IVA por exportación</p>
+<p style="font-weight: 400;">Registración de contratos - Oferta de entrega escritos, no primarios</p>
+<p style="font-weight: 400;">Registro de beneficios ICREDED - RG N° 3.900</p>
+<p style="font-weight: 400;">Reimputación de pagos - Formulario 399</p>
+<p style="font-weight: 400;">Reintegro de impuesto sobre los combustibles líquidos</p>
+<p style="font-weight: 400;">Reorganización de sociedades</p>
+<p style="font-weight: 400;">SIPER - Disconformidad</p>
+<p style="font-weight: 400;">SISA - Cesión gratuita con derecho a usufructo</p>
+<p style="font-weight: 400;">SISA - Domicilio pendiente de validación en dependencia - Ex RFOG</p>
+<p style="font-weight: 400;">Solicitud de cartas de porte por excepción</p>
+<p style="font-weight: 400;">Solicitud de cupos en el Registro de Entidades Emisoras de Garantías (REEG)</p>
+<p style="font-weight: 400;">Solicitud de no retención impuesto a la transferencia de inmuebles</p>
+<p style="font-weight: 400;">Solicitud de registración de DJ rectificativa en menos</p>
+<p style="font-weight: 400;">Solicitud de reintegro de saldo libre disponibilidad, transferencia RG N° 1.466</p>
+<p style="font-weight: 400;">Transferencia de importes convalidados - RG N° 1.466</p>
+<p style="font-weight: 400;">Utilización de importes transferidos - RG N° 1.466, Art. 11 o RG 2.000, Art. 31</p>
+<p style="font-weight: 400;">Verificaciones - Respuesta requerimiento</p>
+<p style="font-weight: 400;">Zona de emergencia – Acreditación</p>
+<p style="font-weight: 400;"></p>
+<p style="font-weight: 400;">Para acceder al texto completo hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2020/07/RG-4749-20-AFIP-BO-30-06-20-Presentaciones-electronicas-en-AFIP.pdf">clic aquí.</a></p>

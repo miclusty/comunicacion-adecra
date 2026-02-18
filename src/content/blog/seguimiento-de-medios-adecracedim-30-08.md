@@ -1,0 +1,28 @@
+---
+title: "Seguimiento de medios Adecra+Cedim 30/08/2023"
+date: 2023-09-05
+---
+
+ INSTITUCIONAL - Adecra+Cedim Paltrinieri: "Tenemos máximo una semana de stocks" Pablo Paltrinieri - Directivo de Adecra 29/08/2023 20:45 | TN - Sólo una vuelta mas "Es la Asociación de Clínicas Sanatorios de la República Argentina." "Hay una situación que venía previo a la devaluación. Las instituciones médicas no podemos fijar precios, si tenemos un precio regulado. Solamente recuperamos parte de lo que hemos tenido que pagar a nivel inflacionario, pero con seis meses de demora. Video Faltantes de insumos médicos Pablo Paltrinieri - Adecra 29/08/2023 20:32 | America 24 - Maxi Montenegro Central Hay reprogramación de tomografías, salió la cámara médica. Hay distintas ramas médicas que alertan falta de insumos. Postergan los turnos. 'Yo te diría que hay una foto pre paso y otra foto posterior. Pre devaluación, las instituciones empezamos a recibir aumentos anticipándose a la devaluación del 70-80 por ciento. Video Paltinieri: 'Estamos en una situación límite' Pablo Paltinieri - Miembro de la comisión directiva de Adecra 29/08/2023 19:18 | TN - Central Mario Massaccesi: "Pablo es miembro de la Comisión Directiva de ADECRA, que es ADECRA, la Asociación de Clínicas, Sanatorios y Hospitales Privados de la República Argentina." PP: "Diría que estamos en una situación límite. Video Alarma en el sector de la salud por el congelamiento las cuotas de instituciones privadas Jorge Cherro - Presidente de ADECRA 29/08/2023 10:34 | Mitre - Lanata sin filtro Jorge Cherro es presidente de la Asociación de Clínicas y Sanatorios de la Argentina.Jorge Cherro:"¿Qué tal, Jessica y equipo? Gracias por llamar". Audio Alarma en el sector de la salud por el congelamiento las cuotas de instituciones privadas Jorge Cherro - Presidente de ADECRA 29/08/2023 10:44 | Mitre - Lanata sin filtro Jorge Cherro: Ahí tenemos el tema de los turnos por un lado y el tema de la escasez de insumos.Periodista: Eso, perdoname que haga un punto ahí, eso falta porque no habilitan dólares para traer los insumos que son importados, ¿es ese el problema básicamente? Jorge Cherro: Yo entiendo que pueda haber parte que sea por el estrangulamiento cambiario, o sea por falta de dólares, y parte que me disculpen los proveedores, pero puede haber también una especulación de los proveedores de que por una cuestión de sobrevivencia, si me dan placas a mí, me venden placas a mí a alguien, y después la tiene que reponer a 13... Audio Entrevista a Jorge Cherro Jorge Cherro - Presidente de Adecra 29/08/2023 10:15 | Milenium - Pablo y a la bolsa Audio Cherro: "El impuesto país hizo que los productos de salud aumenten tanto" (1ra parte) Jorge Cherro - titular de Adecra 30/08/2023 07:07 | Continental - Pulso Continental Jorge Cherro: En realidad hay un poco de historia.Jorge Cherro: Lo primero que pasó, además en el último mes nos encontramos con que ellos estaban importando con el dólar oficial, como se estaban importando todos los insumos, pro el famoso impuesto país, lo que hizo que los productos aumentaran bastante de valor. Audio "Los insumos nuestros el cien por ciento son importados" (2da parte) Jorge Cherro - titular de Adecra 30/08/2023 07:13 | Continental - Pulso Continental Jorge Cherro: Estamos flojos de papeles en ese sentido.Serenellini: ¿Agujas? ¿Qué quiere decir flojos de papeles? Jorge Cherro: Flojos de papeles significa que los insumos nuestros, el 100% son importados o el material con el que se fabrica acá es importado.¿Está ocurriendo eso? ¿Ustedes también lo sufren? Jorge Cherro: Bueno, estamos teniendo... Audio Entrevista a Jorge Cherro 30/08/2023 16:58 | Led - Solo Negocios Adecra CEDIM Audio Crítica situación de la salud privada en Argentina Pablo Paltinieri - Miembro de la comisión directiva de Adecra 30/08/2023 11:40 – Mediodía en Mitre – Radio Mitre Córdoba "La problemática de los insumos viene desde hace varios meses" (1ra parte) Jorge Cherro - titular de Adecra 30/08/2023 09:07 | El observador - Mercuriali 107.9 Franco Mercuriali: ¿Cuál es la situación hoy de críticas y sanatorios? Cherro: "Bueno, ahí vos planteaste dos temas. Uno relacionado con el tema de las problemáticas del insumos, y otro con el tema de las últimas decisiones que adoptó el Gobierno a partir del domingo con el congelamiento de las cosas de la medicina prepaga, el bono de 60 mil pesos, bueno, son dos temas distintos y tienen un tratamiento distinto" - "Con respecto a la problemática de los insumos, es una situación que se viene dando desde hace varios meses y lo primero se agravó en la problemática fueron las mismas cámaras proveedoras importadoras, por el mes de julio incluso salió en la prensa porque enviaron notas muy firmes a la Secretaría de Comercio Interior y al Ministerio de Salud, porque se estaba produciendo un estrangulamiento." - "A partir de un estrangulamiento cambiario, no podían acceder a pagar insumos y a importar insumos. Audio "Veremos cómo impactarán las medidas en l
+
+
+<div class="pdf-embed my-8">
+  <iframe 
+    src="https://docs.google.com/viewer?url=https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-30_08_2023.pdf&embedded=true"
+    class="w-full h-[600px] border-0"
+    title="CEDIM Interior 01-09-2023"
+  ></iframe>
+  <div class="text-center mt-2">
+    <a 
+      href="https://comunicacion.adecra.org.ar/wp-content/uploads/2023/05/Seguimiento-de-medios-AdecraCedim-30_08_2023.pdf" 
+      target="_blank" 
+      rel="noopener"
+      class="text-sm text-blue-600 hover:underline"
+    >
+      📄 Descargar PDF
+    </a>
+  </div>
+</div>
+
+
+ 

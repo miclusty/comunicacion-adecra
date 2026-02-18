@@ -1,0 +1,12 @@
+---
+title: "Decreto 413/2021"
+date: 2021-07-05
+categories: ["Novedades"]
+---
+
+Prorrógase hasta el 31 de diciembre de 2021 inclusive, la prohibición de efectuar despidos sin justa
+
+causa y por las causales de falta o disminución de trabajo y fuerza mayor, dispuesta por el artículo 2° del Decreto
+N° 329/20 y sus sucesivas prórrogas.
+
+Para acceder al texto completo hacer <a href="https://www.adecra.org.ar/wp-content/uploads/2021/07/Decreto-413-2021-BO-28-06-21-Emergencia-Publica-Prorroga-suspension-y-despidos-hasta-31-12-21.pdf">clic aquí. </a>

@@ -1,0 +1,37 @@
+---
+title: "UAS: Coronavirus en la Argentina: \"Nos encontramos al límite de nuestras fuerzas\", advierten los terapistas – La Nación - 02/09/2020"
+date: 2020-11-03
+categories: ["Prensa"]
+---
+
+2 de septiembre de 2020  • 04:20
+
+Según el último reporte del Ministerio de Salud de La Nación, la ocupación de las terapias intensivas se ubica entre el 60 y el 70%. Sin embargo, por distintas causas entre las que se encuentra el agotamiento y los contagios en el equipo de salud, esa cifra se está acercando peligrosamente a los límites operativos en gran parte del país.
+
+La Sociedad Argentina de Terapia Intensiva acaba de difundir una carta abierta a la comunidad en la que advierte que "Los médicos, enfermeros, kinesiólogos y otros miembros de la comunidad de terapia intensiva sentimos que estamos perdiendo la batalla. Sentimos que los recursos para salvar a los pacientes con coronavirus se están agotando. La mayoría de las unidades del país se encuentran con un altísimo nivel de ocupación. Los recursos físicos y tecnológicos son cada vez más escasos. La cuestión principal, sin embargo, es la escasez de los trabajadores, que a diferencia de las camas y los respiradores, no pueden multiplicarse. Los intensivistas hoy nos encontramos al límite de nuestras fuerzas, raleados por la enfermedad, exhaustos por el trabajo continuo e intenso".
+
+A Gerardo Rossell y Andrea Manna, docentes de la Facultad de Ciencias Exactas de la UBA, ayer el dolor se les mezclaba con la rabia. La madre de Gerardo, Norma Catardo, de 87 años, acababa de morir por Covid y la médica que la atendía en el hospital Vélez Sarsfield les había dicho que no habían podido ubicarla en terapia intensiva porque no había camas. "Solo después de que hicimos público el problema y de que interviniera un programa periodístico, la llevaron a un shock room" , cuenta Andrea, cuyo padre también tiene diagnóstico positivo y varias comorbilidades.
+
+El SARS-CoV-2 había llegado al hogar en el que ambos estaban alojados el 14 de agosto. El jueves pasado llamaron al servicio de urgencia y se la llevaron con "código rojo" por la baja saturación de oxígeno. Pasó la noche en la guardia y al día siguiente la llevaron a una sala común. "El viernes nos dijeron que estaba estable y que probablemente le darían el alta -prosigue Andrea-. El sábado, que tenía neumonía y pronóstico reservado. El domingo no tuvimos noticia. Todo por teléfono. El lunes a la mañana nos llamaron diciendo que estaba muy mal, con una máscara de oxígeno y que le habían puesto morfina para mitigar el dolor. Nos dijeron 'no tenemos cama, la última se ocupó el domingo a la noche'. Y que podíamos pedir un traslado a PAMI, pero que en general no llegan a tiempo. Lo contamos en Twitter y después de que se publicó una nota periodística, la pasaron a una sala contigua a la terapia intensiva y apareció el respirador".
+
+El director del hospital, Alejandro Marchetto negó que hubiera faltado una cama y dijo que la paciente había llegado con un cuadro irreversible y muy mal pronóstico, cosa que Manna desmiente porque su suegra supuestamente estuvo estable hasta el domingo y luego empeoró. "La paciente no era recuperable y le propusimos a la familia que decidieran qué querían hacer, se consensuó el tratamiento. Siempre la acompañamos. En la Capital, nunca le faltó nada a nadie gracias a que el gobierno de la Ciudad trabajó muy bien", aseguró Marchetto.
+
+Sin embargo, el caso de Norma no es el único que hace sonar las alertas.
+
+Poco a poco, desde distintos puntos del país se dan a conocer otras circunstancias que revelan la tensión extrema que está sufriendo el sistema de salud.Según publicó LA NACIÓN, en el hospital local de Cipolletti un paciente de 80 años no accedió a un respirador automático porque el centro de salud había cubierto toda su capacidad. En Jujuy, el médico intensivista Miguel Salva afirmó durante una entrevista en Radio Nacional de esa provincia: "Hoy tenemos que elegir a quién le ponemos un respirador y a quién, no. No damos abasto. Lo tiene que saber la comunidad. Estamos en esa situación ya sea porque no tenemos médicos o porque no tenemos camas (...) y ahora tenemos que echar mano de las guías de bioética para decidir a quién poner y a quién no poner en un respirador (...) Es el momento de tomar conciencia. Los países que pudieron reducir este ascenso de casos fue por las directivas del Estado y por el acatamiento de la comunidad".
+
+Distritos
+
+En Mendoza, donde el gobierno publica un reporte semanal con la ocupación de camas, se estima que hoy ronda el 90%. "Las obras sociales no están pudiendo dar asistencia a sus asociados, tenemos quirófanos que se convirtieron en terapias intensivas y se arman equipos con médicos no especializados", comenta Luis Cabezas, intensivista del Hospital Central de la capital de la provincia.
+
+Algunos hospitales resisten. "En el Muñiz, todavía vamos bien -dice Juan Car-os Cisneros, jefe de Terapia Intensiva-. Podríamos atender un poco más, pero tenemos el problema del recurso humano. Estamos tratando de dar alguna licencia de una semana especialmente a los que están desde el principio". Un panorama similar pintó Miguel Blasco, terapista del Hospital Cuenca Alta, de la Provincia de Buenos Aires: "Tenemos muchos pacientes, y en equipamiento por suerte estamos muy bien. Ahora está abierta la Emergencia y colabora con nosotros".
+
+Pero en otros, la situación es bastante más complicada. Un especialista que prefirió no revelar su nombre refirió que en su hospital (de la Capital) ayer la ocupación era del 100%. "Además, el problema es quién está atendiendo las camas que se abrieron -destacó-, no solo a pacientes con Covid, que son los más complejos, sino también los politraumatismos, los ACV, los posoperatorios... Hay hospitales en los que hay pediatras atendiendo a adultos, o clínicos atendiendo las terapias intensivas".
+
+Según Claudio Belocopitt, presidente de la Unión Argentina de Entidades de Salud del Sector Privado (UAS), están con una ocupación promedio del 80%. "Hasta ahora, no hemos tenido problemas de disponibilidad. La curva creció, pero no saturó porque se cambiaron los protocolos (se hace más atención en el domicilio y en hoteles). Pero está claro que éste es un camino muy finito y siempre se corre el riesgo de que el sistema se sature. Es importantísimo que la sociedad entienda que de ninguna manera esto ha sido superado. No estamos viendo muertes por saturación, pero si ocurre, este número puede multiplicarse por tres o por cuatro".
+
+En su carta, los terapistas finalizan diciendo: "(...) sentimos que no podemos más (...) Observamos en las calles cada vez más gente que quiere disfrutar, que reclama sus derechos, la gente que se siente bien por ahora. ¿Qué pasará con ellos y sus familiares mañana? ¡Ojalá que no se transformen en uno de nuestros pacientes que, con fuerzas, trataremos de arrebatarle a la muerte!"
+
+FUENTE: <a href="https://www.lanacion.com.ar/salud/coronavirus-argentina-advierten-terapias-intensivas-estan-tension-nid2437856">https://www.lanacion.com.ar/salud/coronavirus-argentina-advierten-terapias-intensivas-estan-tension-nid2437856</a>
+
+ 

@@ -1,0 +1,15 @@
+---
+title: "“Los prestadores de salud privada brindamos atención a más del 70% de la población pero nuestro sistema está agobiado” - Diario La Calle - 14/05/2019"
+date: 2019-05-15
+categories: ["Prensa"]
+---
+
+<p style="font-weight: 400;"><em>14 mayo, 2019</em></p>
+<p style="font-weight: 400;">Esta nota fue replicada en los portale online El Debate e Inversores Salud.</p>
+<p style="font-weight: 400;">“Los prestadores de salud privada brindamos atención a más del 70% de la población pero nuestro sistema está agobiado”</p>
+<p style="font-weight: 400;">Así lo señaló <strong>Guillermo Lorenzo, vicepresidente de la</strong> <strong>Asociación de Clínicas, Sanatorios y Hospitales Privados del país (Adecra)</strong> y ahora vocal del Consejo Directivo de la flamante Unión Argentina de Salud (UAS), la confederación que nuclea a todo el sistema de salud privada en la Argentina. “Si nuestro sector deja de ser sustentable y quiebra, toda la población deberá ser atendida por el Estado”, advirtió.</p>
+<p style="font-weight: 400;">Durante los últimos días, se conformó un nuevo espacio en el que Adecra+Cedim, junto a otras cámaras prestadoras, prepagas, obras sociales y mutuales, se unieron para denunciar con más fuerza la situación “límite” del sector y exigir respuestas. “Pedimos incentivos para nuestros prestadores y regulación clara para el sector financiador”, declaró Lorenzo.</p>
+<p style="font-weight: 400;">El cuadro de situación incluye, entre los principales problemas, el incremento creciente en los costos a partir del aumento de la esperanza de vida y la innovación tecnológica, donde también incide fuertemente el desfasaje con la inflación médica.</p>
+<p style="font-weight: 400;">“Vemos un sistema agobiado y el dinero no alcanza. Las leyes y disposiciones obligan a los financiadores a cubrir cada vez más prestaciones y enfermedades sin el debido financiamiento. Por nuestra parte, los prestadores, estamos obligados a indicar prácticas, tratamientos y/o medicamentos sabiendo que va a ser muy difícil que los financiadores lo puedan costear”, señaló el también director General del Instituto Argentino de Diagnóstico y Tratamiento (IADT).</p>
+<p style="font-weight: 400;">“Las entidades de salud somos un sector muy fragmentado, que brindamos atención a más del 70% de la población, ya sea a quienes estén cubiertos por el Estado como por cualquiera de las sociedades privadas. Si dejamos de ser sustentables, toda la población argentina deberá ser atendida por el Estado”, finalizó Lorenzo.</p>
+<p style="font-weight: 400;">La UAS está integrada por ADEMP, CIMARA, CEMPRA, <strong>ADECRA</strong>, ACAMI, <strong>CEDIM</strong>, FAOSDIR Y FAMSA, entre otras cámaras, y fue presentada por Claudio Belocopitt, presidente de Swiss Medical de ADEMP, Gabriel Barbagallo, gerente de Relaciones Institucionales de OSDE, y Guillermo Lorenzo.</p>
