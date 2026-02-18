@@ -10,9 +10,28 @@ import Layout from '../layouts/Layout.astro';
         <h1 class="text-4xl md:text-5xl font-bold mb-4">
           Comunicación ADECRA + CEDIM
         </h1>
-        <p class="text-xl text-blue-100">
+        <p class="text-xl text-blue-100 mb-8">
           Noticias, eventos y capacitaciones para el sector de la salud
         </p>
+        
+        <!-- Buscador -->
+        <div class="max-w-xl relative">
+          <div class="relative">
+            <input 
+              type="text" 
+              id="search-input"
+              placeholder="Buscar noticias, eventos, cursos..." 
+              class="w-full px-6 py-4 rounded-full text-gray-800 text-lg shadow-lg focus:outline-none focus:ring-4 focus:ring-blue-300"
+            />
+            <button 
+              id="search-btn"
+              class="absolute right-2 top-1/2 -translate-y-1/2 bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition-colors"
+            >
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+          <div id="search-results" class="hidden absolute z-50 mt-2 w-full max-w-xl bg-white rounded-lg shadow-xl max-h-80 overflow-y-auto"></div>
+        </div>
       </div>
     </div>
   </section>
@@ -23,7 +42,7 @@ import Layout from '../layouts/Layout.astro';
       <h2 class="text-2xl font-bold mb-8 text-gray-800">Últimas Noticias</h2>
       
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <a href="/blog" class="block group">
+        <a href="/noticias" class="block group">
           <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow">
             <div class="h-48 bg-gray-200 flex items-center justify-center">
               <i class="fas fa-newspaper text-4xl text-gray-400"></i>
@@ -90,3 +109,127 @@ import Layout from '../layouts/Layout.astro';
     </div>
   </section>
 </Layout>
+
+<script is:inline>
+  // Buscador con autocompletado usando Pagefind
+  const searchInput = document.getElementById('search-input');
+  const searchBtn = document.getElementById('search-btn');
+  const searchResults = document.getElementById('search-results');
+  
+  let searchTimeout;
+  let pagefind = null;
+  let pagefindLoading = false;
+  
+  async function loadPagefind() {
+    if (pagefindLoading) return null;
+    if (pagefind) return pagefind;
+    
+    pagefindLoading = true;
+    try {
+      // Cargar Pagefind dinámicamente
+      const pf = await window.pagefind.search('test', { limit: 1 });
+      pagefind = window.pagefind;
+      return pagefind;
+    } catch (e) {
+      console.log('Pagefind no disponible todavía, usando fallback');
+      return null;
+    } finally {
+      pagefindLoading = false;
+    }
+  }
+  
+  async function performSearch(query) {
+    if (!query || query.length < 2) {
+      searchResults.classList.add('hidden');
+      return;
+    }
+    
+    try {
+      const pf = window.pagefind;
+      if (!pf) {
+        // Fallback: redirigir a página de búsqueda
+        window.location.href = '/buscar?q=' + encodeURIComponent(query);
+        return;
+      }
+      
+      const search = await pf.search(query);
+      const results = await Promise.all(search.results.slice(0, 8).map(r => r.data()));
+      
+      if (results.length === 0) {
+        searchResults.innerHTML = '<div class="p-4 text-gray-500">No se encontraron resultados</div>';
+        searchResults.classList.remove('hidden');
+        return;
+      }
+      
+      searchResults.innerHTML = results.map(result => {
+        const title = result.meta && result.meta.title ? result.meta.title : 'Sin título';
+        const url = result.url;
+        const excerpt = result.excerpt || '';
+        return '<a href="' + url + '" class="block p-4 hover:bg-gray-50 border-b border-gray-100 last:border-0">' +
+          '<div class="font-medium text-gray-800">' + title + '</div>' +
+          '<div class="text-sm text-gray-500 mt-1" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">' + excerpt.replace(/<[^>]*>/g, '') + '</div>' +
+        '</a>';
+      }).join('');
+      
+      searchResults.classList.remove('hidden');
+    } catch (e) {
+      console.error('Error buscando:', e);
+      // Fallback en caso de error
+      window.location.href = '/buscar?q=' + encodeURIComponent(query);
+    }
+  }
+  
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(searchTimeout);
+      const query = e.target.value;
+      searchTimeout = setTimeout(() => performSearch(query), 300);
+    });
+  }
+  
+  if (searchBtn) {
+    searchBtn.addEventListener('click', () => {
+      const query = searchInput.value;
+      if (query) {
+        window.location.href = '/buscar?q=' + encodeURIComponent(query);
+      }
+    });
+  }
+  
+  if (searchInput) {
+    searchInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        const query = e.target.value;
+        if (query) {
+          window.location.href = '/buscar?q=' + encodeURIComponent(query);
+        }
+      }
+    });
+  }
+  
+  // Cerrar resultados al hacer click fuera
+  document.addEventListener('click', (e) => {
+    if (searchInput && !searchInput.contains(e.target) && searchResults && !searchResults.contains(e.target)) {
+      searchResults.classList.add('hidden');
+    }
+  });
+  
+  // Pre-cargar Pagefind cuando el DOM esté listo
+  document.addEventListener('DOMContentLoaded', async () => {
+    try {
+      // Intentar cargar Pagefind
+      const scripts = document.querySelectorAll('script[src*="pagefind"]');
+      if (scripts.length === 0) {
+        // Crear script dinámicamente si no existe
+        const script = document.createElement('script');
+        script.src = '/pagefind/pagefind.js';
+        script.async = true;
+        script.onload = () => console.log('Pagefind cargado');
+        script.onerror = () => console.log('Pagefind no disponible');
+        document.head.appendChild(script);
+      }
+    } catch (e) {
+      console.log('Error precargando Pagefind');
+    }
+  });
+</script>
